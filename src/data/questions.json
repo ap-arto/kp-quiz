@@ -930,6 +930,110 @@
       "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §1"
     },
     {
+      "id": "people-copernicus-theory",
+      "categoryId": "people",
+      "question": "Z jaką teorią jest związany Mikołaj Kopernik?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z teorią heliocentryczną"
+        },
+        {
+          "id": "b",
+          "text": "Z teorią ewolucji"
+        },
+        {
+          "id": "c",
+          "text": "Z teorią względności"
+        },
+        {
+          "id": "d",
+          "text": "Z teorią dryfu kontynentów"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Mikołaj Kopernik był astronomem i twórcą teorii heliocentrycznej, według której Ziemia i inne planety krążą wokół Słońca.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §1"
+    },
+    {
+      "id": "people-heweliusz",
+      "categoryId": "people",
+      "question": "Kim był Jan Heweliusz?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Astronomem i konstruktorem instrumentów naukowych"
+        },
+        {
+          "id": "b",
+          "text": "Matematykiem i twórcą analizy funkcjonalnej"
+        },
+        {
+          "id": "c",
+          "text": "Kompozytorem i dyrygentem"
+        },
+        {
+          "id": "d",
+          "text": "Malarzem i dramaturgiem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Heweliusz był astronomem związanym z Gdańskiem. Konstruował instrumenty do obserwacji astronomicznych.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §1"
+    },
+    {
+      "id": "people-banach",
+      "categoryId": "people",
+      "question": "Z jaką dziedziną matematyki jest szczególnie związany Stefan Banach?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z analizą funkcjonalną"
+        },
+        {
+          "id": "b",
+          "text": "Z kryptologią Enigmy"
+        },
+        {
+          "id": "c",
+          "text": "Z geometrią wykreślną"
+        },
+        {
+          "id": "d",
+          "text": "Z rachunkiem astronomicznym"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stefan Banach był jednym z twórców analizy funkcjonalnej. Urodził się w Krakowie w 1892 roku, a zmarł we Lwowie w 1945 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §1"
+    },
+    {
+      "id": "people-banach-cities",
+      "categoryId": "people",
+      "question": "Która para miast odpowiada miejscu urodzenia i śmierci Stefana Banacha?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Kraków i Lwów"
+        },
+        {
+          "id": "b",
+          "text": "Toruń i Gdańsk"
+        },
+        {
+          "id": "c",
+          "text": "Warszawa i Paryż"
+        },
+        {
+          "id": "d",
+          "text": "Poznań i Wrocław"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stefan Banach urodził się w Krakowie w 1892 roku i zmarł we Lwowie w 1945 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §1"
+    },
+    {
       "id": "people-chopin",
       "categoryId": "people",
       "question": "Kim był Fryderyk Chopin?",
@@ -956,6 +1060,266 @@
       "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §2"
     },
     {
+      "id": "people-chopin-romanticism",
+      "categoryId": "people",
+      "question": "Jaką epokę muzyczną reprezentował Fryderyk Chopin?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Romantyzm"
+        },
+        {
+          "id": "b",
+          "text": "Barok"
+        },
+        {
+          "id": "c",
+          "text": "Renesans"
+        },
+        {
+          "id": "d",
+          "text": "Średniowiecze"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Fryderyk Chopin (1810–1849) był przedstawicielem romantyzmu, nazywanym poetą fortepianu.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §2"
+    },
+    {
+      "id": "people-szymanowski",
+      "categoryId": "people",
+      "question": "Który kompozytor i pianista był związany z okresem Młodej Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Karol Szymanowski"
+        },
+        {
+          "id": "b",
+          "text": "Fryderyk Chopin"
+        },
+        {
+          "id": "c",
+          "text": "Jan Heweliusz"
+        },
+        {
+          "id": "d",
+          "text": "Jan Matejko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Karol Szymanowski (1882–1937) był kompozytorem i pianistą związanym z Młodą Polską.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §2"
+    },
+    {
+      "id": "people-lutoslawski",
+      "categoryId": "people",
+      "question": "Kim był Witold Lutosławski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Kompozytorem i dyrygentem"
+        },
+        {
+          "id": "b",
+          "text": "Reżyserem i scenarzystą"
+        },
+        {
+          "id": "c",
+          "text": "Poetą i publicystą"
+        },
+        {
+          "id": "d",
+          "text": "Malarzem i dramaturgiem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Witold Lutosławski był polskim kompozytorem i dyrygentem XX wieku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §2"
+    },
+    {
+      "id": "people-wajda",
+      "categoryId": "people",
+      "question": "Kto wyreżyserował filmy „Człowiek z marmuru” i „Człowiek z żelaza”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Andrzej Wajda"
+        },
+        {
+          "id": "b",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "c",
+          "text": "Roman Polański"
+        },
+        {
+          "id": "d",
+          "text": "Krzysztof Zanussi"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Andrzej Wajda wyreżyserował „Człowieka z marmuru”, „Człowieka z żelaza” oraz „Katyń”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
+      "id": "people-wajda-awards",
+      "categoryId": "people",
+      "question": "Który reżyser „Człowieka z żelaza” został uhonorowany Złotą Palmą i Oscarem?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Andrzej Wajda"
+        },
+        {
+          "id": "b",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "c",
+          "text": "Krzysztof Zanussi"
+        },
+        {
+          "id": "d",
+          "text": "Krzysztof Kieślowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Andrzej Wajda otrzymał Złotą Palmę w Cannes oraz Oscara za całokształt twórczości.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
+      "id": "people-hoffman",
+      "categoryId": "people",
+      "question": "Kto wyreżyserował „Potop”, „Pana Wołodyjowskiego” i „Starą baśń”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "b",
+          "text": "Andrzej Wajda"
+        },
+        {
+          "id": "c",
+          "text": "Krzysztof Kieślowski"
+        },
+        {
+          "id": "d",
+          "text": "Paweł Pawlikowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jerzy Hoffman jest reżyserem tych ekranizacji polskiej literatury.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
+      "id": "people-polanski",
+      "categoryId": "people",
+      "question": "Kto wyreżyserował filmy „Chinatown” i „Pianista”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Roman Polański"
+        },
+        {
+          "id": "b",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "c",
+          "text": "Krzysztof Zanussi"
+        },
+        {
+          "id": "d",
+          "text": "Andrzej Wajda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Roman Polański wyreżyserował „Chinatown” i „Pianistę”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
+      "id": "people-zanussi",
+      "categoryId": "people",
+      "question": "Kto jest reżyserem filmu „Barwy ochronne”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Krzysztof Zanussi"
+        },
+        {
+          "id": "b",
+          "text": "Krzysztof Kieślowski"
+        },
+        {
+          "id": "c",
+          "text": "Roman Polański"
+        },
+        {
+          "id": "d",
+          "text": "Paweł Pawlikowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Krzysztof Zanussi to polski reżyser i scenarzysta, twórca „Barw ochronnych”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
+      "id": "people-kieslowski",
+      "categoryId": "people",
+      "question": "Kto stworzył cykl filmowy „Dekalog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Krzysztof Kieślowski"
+        },
+        {
+          "id": "b",
+          "text": "Krzysztof Zanussi"
+        },
+        {
+          "id": "c",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "d",
+          "text": "Andrzej Wajda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Krzysztof Kieślowski jest twórcą „Dekalogu” oraz dokumentu „Gadające głowy”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
+      "id": "people-kieslowski-documentary",
+      "categoryId": "people",
+      "question": "Który dokument wyreżyserował Krzysztof Kieślowski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Gadające głowy”"
+        },
+        {
+          "id": "b",
+          "text": "„Barwy ochronne”"
+        },
+        {
+          "id": "c",
+          "text": "„Stara baśń”"
+        },
+        {
+          "id": "d",
+          "text": "„Chinatown”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Gadające głowy” to dokument Krzysztofa Kieślowskiego, reżysera znanego także z „Dekalogu”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §3"
+    },
+    {
       "id": "people-tadeusz",
       "categoryId": "people",
       "question": "Kto napisał Pana Tadeusza?",
@@ -979,6 +1343,162 @@
       ],
       "correctAnswerId": "a",
       "fact": "Pan Tadeusz to epopeja Adama Mickiewicza, napisana w latach 1832–1834.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-mickiewicz",
+      "categoryId": "people",
+      "question": "Które określenie odnosi się do Adama Mickiewicza?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Poeta i wieszcz narodowy"
+        },
+        {
+          "id": "b",
+          "text": "Malarz historyczny i portrecista"
+        },
+        {
+          "id": "c",
+          "text": "Kompozytor i pianista"
+        },
+        {
+          "id": "d",
+          "text": "Astronom i matematyk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Adam Mickiewicz był poetą, publicystą i wieszczem narodowym. Żył w latach 1798–1855.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-rej",
+      "categoryId": "people",
+      "question": "Który poeta XVI wieku przyczynił się do rozwoju literatury w języku polskim?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mikołaj Rej"
+        },
+        {
+          "id": "b",
+          "text": "Julian Tuwim"
+        },
+        {
+          "id": "c",
+          "text": "Zbigniew Herbert"
+        },
+        {
+          "id": "d",
+          "text": "Adam Mickiewicz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Mikołaj Rej (1505–1569) tworzył po polsku i przyczynił się do rozwoju polskiego języka literackiego.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-kochanowski",
+      "categoryId": "people",
+      "question": "W którym stuleciu żył Jan Kochanowski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W XVI wieku"
+        },
+        {
+          "id": "b",
+          "text": "W XIV wieku"
+        },
+        {
+          "id": "c",
+          "text": "W XVIII wieku"
+        },
+        {
+          "id": "d",
+          "text": "W XX wieku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Kochanowski żył w latach 1530–1584, czyli w XVI wieku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-tuwim",
+      "categoryId": "people",
+      "question": "Który z wymienionych pisarzy żył w latach 1894–1953?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Julian Tuwim"
+        },
+        {
+          "id": "b",
+          "text": "Jan Kochanowski"
+        },
+        {
+          "id": "c",
+          "text": "Mikołaj Rej"
+        },
+        {
+          "id": "d",
+          "text": "Juliusz Słowacki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Julian Tuwim żył w latach 1894–1953. Należy do polskich poetów XX wieku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-herbert",
+      "categoryId": "people",
+      "question": "Który z wymienionych poetów urodził się w 1924 roku i zmarł w 1998 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Zbigniew Herbert"
+        },
+        {
+          "id": "b",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Jan Kochanowski"
+        },
+        {
+          "id": "d",
+          "text": "Julian Tuwim"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Zbigniew Herbert był polskim poetą XX wieku; żył w latach 1924–1998.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-slowacki",
+      "categoryId": "people",
+      "question": "Kto napisał wiersz „Testament mój”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Juliusz Słowacki"
+        },
+        {
+          "id": "b",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Julian Tuwim"
+        },
+        {
+          "id": "d",
+          "text": "Zbigniew Herbert"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Juliusz Słowacki (1809–1849) jest autorem wiersza „Testament mój”.",
       "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
     },
     {
@@ -1034,6 +1554,500 @@
       "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
     },
     {
+      "id": "people-curie-fields",
+      "categoryId": "people",
+      "question": "W jakich dwóch dziedzinach Maria Skłodowska-Curie otrzymała Nagrody Nobla?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W fizyce i chemii"
+        },
+        {
+          "id": "b",
+          "text": "W chemii i medycynie"
+        },
+        {
+          "id": "c",
+          "text": "W fizyce i literaturze"
+        },
+        {
+          "id": "d",
+          "text": "W medycynie i ekonomii"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Maria Skłodowska-Curie otrzymała Nobla z fizyki w 1903 roku i z chemii w 1911 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-curie-physics-year",
+      "categoryId": "people",
+      "question": "W którym roku Maria Skłodowska-Curie otrzymała Nagrodę Nobla z fizyki?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 1903 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 1905 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 1911 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 1924 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pierwsza Nagroda Nobla Marii Skłodowskiej-Curie, z fizyki, pochodzi z 1903 roku. Drugą otrzymała z chemii w 1911 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-curie-chemistry-year",
+      "categoryId": "people",
+      "question": "W którym roku Maria Skłodowska-Curie otrzymała Nagrodę Nobla z chemii?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 1911 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 1903 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 1905 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 1924 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Maria Skłodowska-Curie otrzymała Nobla z chemii w 1911 roku, osiem lat po Noblu z fizyki.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-sienkiewicz-nobel",
+      "categoryId": "people",
+      "question": "Który polski pisarz otrzymał literacką Nagrodę Nobla w 1905 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Henryk Sienkiewicz"
+        },
+        {
+          "id": "b",
+          "text": "Władysław Reymont"
+        },
+        {
+          "id": "c",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "d",
+          "text": "Olga Tokarczuk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Henryk Sienkiewicz otrzymał literacką Nagrodę Nobla w 1905 roku. Do jego książek należą „Quo vadis” i „W pustyni i w puszczy”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-sienkiewicz-books",
+      "categoryId": "people",
+      "question": "Kto napisał „Quo vadis” oraz „W pustyni i w puszczy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Henryk Sienkiewicz"
+        },
+        {
+          "id": "b",
+          "text": "Władysław Reymont"
+        },
+        {
+          "id": "c",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "d",
+          "text": "Andrzej Sapkowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Obie powieści napisał Henryk Sienkiewicz, laureat literackiej Nagrody Nobla z 1905 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-reymont-nobel",
+      "categoryId": "people",
+      "question": "W którym roku Władysław Reymont otrzymał literacką Nagrodę Nobla?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 1924 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 1905 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 1980 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 1996 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Reymont otrzymał Nobla w 1924 roku za „Chłopów”, powieść ukazującą życie polskiej wsi w rytmie czterech pór roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-milosz-nobel",
+      "categoryId": "people",
+      "question": "Który polski poeta otrzymał literacką Nagrodę Nobla w 1980 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "b",
+          "text": "Zbigniew Herbert"
+        },
+        {
+          "id": "c",
+          "text": "Julian Tuwim"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Reymont"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Czesław Miłosz został laureatem literackiej Nagrody Nobla w 1980 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-walesa-nobel",
+      "categoryId": "people",
+      "question": "Który Polak otrzymał Pokojową Nagrodę Nobla w 1983 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Lech Wałęsa"
+        },
+        {
+          "id": "b",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "c",
+          "text": "Józef Piłsudski"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Sikorski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Lech Wałęsa otrzymał Pokojową Nagrodę Nobla w 1983 roku. Była to nagroda pokojowa, a nie literacka.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-szymborska-nobel",
+      "categoryId": "people",
+      "question": "Która polska poetka otrzymała literacką Nagrodę Nobla w 1996 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wisława Szymborska"
+        },
+        {
+          "id": "b",
+          "text": "Olga Tokarczuk"
+        },
+        {
+          "id": "c",
+          "text": "Maria Skłodowska-Curie"
+        },
+        {
+          "id": "d",
+          "text": "Irena Sendlerowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Wisława Szymborska została laureatką literackiej Nagrody Nobla w 1996 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-tokarczuk-books",
+      "categoryId": "people",
+      "question": "Kto napisał „Biegunów” i „Księgi Jakubowe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Olga Tokarczuk"
+        },
+        {
+          "id": "b",
+          "text": "Wisława Szymborska"
+        },
+        {
+          "id": "c",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "d",
+          "text": "Henryk Sienkiewicz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Bieguni” i „Księgi Jakubowe” to książki Olgi Tokarczuk, laureatki literackiej Nagrody Nobla za 2018 rok.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-john-paul-name",
+      "categoryId": "people",
+      "question": "Jak nazywał się Jan Paweł II przed wyborem na papieża?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Karol Wojtyła"
+        },
+        {
+          "id": "b",
+          "text": "Stefan Wyszyński"
+        },
+        {
+          "id": "c",
+          "text": "Maksymilian Kolbe"
+        },
+        {
+          "id": "d",
+          "text": "Jerzy Popiełuszko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Paweł II to Karol Wojtyła. Żył w latach 1920–2005.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-john-paul-birthplace",
+      "categoryId": "people",
+      "question": "Gdzie urodził się Jan Paweł II?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Wadowicach"
+        },
+        {
+          "id": "b",
+          "text": "W Krakowie"
+        },
+        {
+          "id": "c",
+          "text": "W Toruniu"
+        },
+        {
+          "id": "d",
+          "text": "W Gnieźnie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Karol Wojtyła, późniejszy Jan Paweł II, urodził się w Wadowicach w 1920 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-john-paul-election",
+      "categoryId": "people",
+      "question": "W którym roku Karol Wojtyła został wybrany na papieża?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 1978 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 1968 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 1983 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 1989 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Karol Wojtyła został wybrany na papieża w 1978 roku i przyjął imię Jan Paweł II.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-john-paul-death",
+      "categoryId": "people",
+      "question": "Kiedy zmarł Jan Paweł II?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W kwietniu 2005 roku"
+        },
+        {
+          "id": "b",
+          "text": "W maju 2011 roku"
+        },
+        {
+          "id": "c",
+          "text": "W kwietniu 2014 roku"
+        },
+        {
+          "id": "d",
+          "text": "W październiku 1978 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Paweł II zmarł w kwietniu 2005 roku. Beatyfikowano go w maju 2011 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-john-paul-canonization",
+      "categoryId": "people",
+      "question": "Kiedy Jan Paweł II został kanonizowany?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "27 kwietnia 2014 roku"
+        },
+        {
+          "id": "b",
+          "text": "1 maja 2011 roku"
+        },
+        {
+          "id": "c",
+          "text": "4 lipca 1943 roku"
+        },
+        {
+          "id": "d",
+          "text": "11 listopada 1918 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Kanonizacja Jana Pawła II odbyła się 27 kwietnia 2014 roku, po beatyfikacji w maju 2011 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-pilsudski-role",
+      "categoryId": "people",
+      "question": "Jaką funkcję pełnił Józef Piłsudski po odzyskaniu przez Polskę niepodległości?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Naczelnika Państwa"
+        },
+        {
+          "id": "b",
+          "text": "Prezydenta RP na uchodźstwie"
+        },
+        {
+          "id": "c",
+          "text": "Króla Polski"
+        },
+        {
+          "id": "d",
+          "text": "Przewodniczącego Rady Europejskiej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Józef Piłsudski był Naczelnikiem Państwa po I wojnie światowej i jedną z najważniejszych postaci odzyskania niepodległości w 1918 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-pilsudski-1920",
+      "categoryId": "people",
+      "question": "Z jakim wydarzeniem w działalności Józefa Piłsudskiego wiąże się rok 1920?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z powstrzymaniem ofensywy bolszewickiej"
+        },
+        {
+          "id": "b",
+          "text": "Z wybuchem powstania listopadowego"
+        },
+        {
+          "id": "c",
+          "text": "Z uchwaleniem Konstytucji 3 maja"
+        },
+        {
+          "id": "d",
+          "text": "Z początkiem powstania warszawskiego"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Józef Piłsudski odegrał ważną rolę w wojnie polsko-bolszewickiej i powstrzymaniu ofensywy bolszewickiej w 1920 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-sikorski-role",
+      "categoryId": "people",
+      "question": "Kto był premierem rządu RP w latach 1939–1943?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Władysław Sikorski"
+        },
+        {
+          "id": "b",
+          "text": "Józef Piłsudski"
+        },
+        {
+          "id": "c",
+          "text": "Lech Wałęsa"
+        },
+        {
+          "id": "d",
+          "text": "Jan Paweł II"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Generał Władysław Sikorski pełnił funkcję premiera rządu RP w latach 1939–1943.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
+      "id": "people-sikorski-death",
+      "categoryId": "people",
+      "question": "Gdzie i kiedy zginął generał Władysław Sikorski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Gibraltarze, 4 lipca 1943 roku"
+        },
+        {
+          "id": "b",
+          "text": "W Warszawie, 1 sierpnia 1944 roku"
+        },
+        {
+          "id": "c",
+          "text": "W Katyniu, w kwietniu 1940 roku"
+        },
+        {
+          "id": "d",
+          "text": "W Krakowie, 11 listopada 1918 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Władysław Sikorski zginął w katastrofie lotniczej w Gibraltarze 4 lipca 1943 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §6"
+    },
+    {
       "id": "people-matejko",
       "categoryId": "people",
       "question": "Który malarz stworzył Bitwę pod Grunwaldem?",
@@ -1058,6 +2072,1280 @@
       "correctAnswerId": "a",
       "fact": "Jan Matejko był malarzem historycznym. Namalował także Hołd pruski i Stańczyka.",
       "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-matejko-role",
+      "categoryId": "people",
+      "question": "Z jakiego rodzaju malarstwa zasłynął Jan Matejko?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z malarstwa historycznego"
+        },
+        {
+          "id": "b",
+          "text": "Z malarstwa abstrakcyjnego"
+        },
+        {
+          "id": "c",
+          "text": "Z malarstwa art déco"
+        },
+        {
+          "id": "d",
+          "text": "Z malarstwa impresjonistycznego"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Matejko (1838–1893) tworzył obrazy historyczne. W okresie zaborów pomagały one podtrzymywać pamięć o dziejach Polski.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-matejko-works",
+      "categoryId": "people",
+      "question": "Który zestaw zawiera wyłącznie dzieła Jana Matejki?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Rejtan”, „Stańczyk”, „Hołd pruski”"
+        },
+        {
+          "id": "b",
+          "text": "„Babie lato”, „Czwórka”, „Melancholia”"
+        },
+        {
+          "id": "c",
+          "text": "„Panorama Racławicka”, „Babie lato”, „Melancholia”"
+        },
+        {
+          "id": "d",
+          "text": "„Dama z gronostajem”, „Czwórka”, „Melancholia”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Do dzieł Matejki należą „Rejtan”, „Stańczyk”, „Hołd pruski”, „Konstytucja 3 maja 1791 roku” oraz cykl „Poczet królów i książąt polskich”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-chelmonski",
+      "categoryId": "people",
+      "question": "Kto namalował „Babie lato” i „Czwórkę”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Józef Chełmoński"
+        },
+        {
+          "id": "b",
+          "text": "Jan Matejko"
+        },
+        {
+          "id": "c",
+          "text": "Jacek Malczewski"
+        },
+        {
+          "id": "d",
+          "text": "Stanisław Wyspiański"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Babie lato” i „Czwórka” to obrazy Józefa Chełmońskiego.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-malczewski",
+      "categoryId": "people",
+      "question": "Który malarz, związany z symbolizmem, stworzył „Melancholię”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jacek Malczewski"
+        },
+        {
+          "id": "b",
+          "text": "Józef Chełmoński"
+        },
+        {
+          "id": "c",
+          "text": "Jan Matejko"
+        },
+        {
+          "id": "d",
+          "text": "Wojciech Kossak"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jacek Malczewski był przedstawicielem symbolizmu. Jednym z jego dzieł jest „Melancholia”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-wyspianski",
+      "categoryId": "people",
+      "question": "Który malarz i dramaturg jest autorem „Wesela”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stanisław Wyspiański"
+        },
+        {
+          "id": "b",
+          "text": "Jan Matejko"
+        },
+        {
+          "id": "c",
+          "text": "Józef Chełmoński"
+        },
+        {
+          "id": "d",
+          "text": "Jan Styka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stanisław Wyspiański był malarzem i dramaturgiem, autorem „Wesela” oraz witraży w kościele Franciszkanów w Krakowie.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-raclawice-artists",
+      "categoryId": "people",
+      "question": "Która para malarzy współtworzyła „Panoramę Racławicką”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wojciech Kossak i Jan Styka"
+        },
+        {
+          "id": "b",
+          "text": "Jan Matejko i Józef Chełmoński"
+        },
+        {
+          "id": "c",
+          "text": "Jacek Malczewski i Stanisław Wyspiański"
+        },
+        {
+          "id": "d",
+          "text": "Jan Matejko i Jacek Malczewski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Wojciech Kossak i Jan Styka współtworzyli „Panoramę Racławicką”, którą można oglądać we Wrocławiu.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-raclawice-location",
+      "categoryId": "people",
+      "question": "W którym mieście można oglądać „Panoramę Racławicką”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "We Wrocławiu"
+        },
+        {
+          "id": "b",
+          "text": "W Krakowie"
+        },
+        {
+          "id": "c",
+          "text": "W Warszawie"
+        },
+        {
+          "id": "d",
+          "text": "W Gdańsku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Panorama Racławicka”, współtworzona przez Wojciecha Kossaka i Jana Stykę, znajduje się we Wrocławiu.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-lempicka",
+      "categoryId": "people",
+      "question": "Z jakim stylem w sztuce jest kojarzona Tamara Łempicka?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z art déco"
+        },
+        {
+          "id": "b",
+          "text": "Z gotykiem"
+        },
+        {
+          "id": "c",
+          "text": "Z barokiem"
+        },
+        {
+          "id": "d",
+          "text": "Z impresjonizmem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Tamara Łempicka jest jedną z najbardziej rozpoznawalnych malarek związanych z art déco.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-lady-ermine-artist",
+      "categoryId": "people",
+      "question": "Kto namalował „Damę z gronostajem”, przechowywaną w Krakowie?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Leonardo da Vinci"
+        },
+        {
+          "id": "b",
+          "text": "Jan Matejko"
+        },
+        {
+          "id": "c",
+          "text": "Józef Chełmoński"
+        },
+        {
+          "id": "d",
+          "text": "Jacek Malczewski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Damę z gronostajem” namalował Leonardo da Vinci, włoski artysta. Obraz znajduje się w polskich zbiorach Muzeum Czartoryskich w Krakowie.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-lady-ermine-museum",
+      "categoryId": "people",
+      "question": "Gdzie znajduje się „Dama z gronostajem”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Muzeum Czartoryskich w Krakowie"
+        },
+        {
+          "id": "b",
+          "text": "W Muzeum Narodowym w Warszawie"
+        },
+        {
+          "id": "c",
+          "text": "W Muzeum Narodowym we Wrocławiu"
+        },
+        {
+          "id": "d",
+          "text": "W Muzeum Narodowym w Gdańsku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Dama z gronostajem” Leonarda da Vinci jest przechowywana w Muzeum Czartoryskich w Krakowie.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "people-tokarczuk-nobel",
+      "categoryId": "people",
+      "question": "Która polska pisarka otrzymała literacką Nagrodę Nobla za rok 2018?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Olga Tokarczuk"
+        },
+        {
+          "id": "b",
+          "text": "Wisława Szymborska"
+        },
+        {
+          "id": "c",
+          "text": "Maria Skłodowska-Curie"
+        },
+        {
+          "id": "d",
+          "text": "Irena Sendlerowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Olga Tokarczuk, urodzona w 1962 roku, otrzymała literacką Nagrodę Nobla za rok 2018. Nagrodę ogłoszono i wręczono w 2019 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §8"
+    },
+    {
+      "id": "people-tokarczuk-ceremony",
+      "categoryId": "people",
+      "question": "W którym roku wręczono Oldze Tokarczuk Nagrodę Nobla za rok 2018?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 2019 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 2018 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 2017 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 2020 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Nagroda Tokarczuk dotyczyła roku 2018, ale wręczono ją w grudniu 2019 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §8"
+    },
+    {
+      "id": "people-tokarczuk-other-books",
+      "categoryId": "people",
+      "question": "Kto napisał „Prawiek i inne czasy” oraz „Prowadź swój pług przez kości umarłych”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Olga Tokarczuk"
+        },
+        {
+          "id": "b",
+          "text": "Wisława Szymborska"
+        },
+        {
+          "id": "c",
+          "text": "Stanisław Lem"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Reymont"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Olga Tokarczuk jest autorką tych powieści, a także „Biegunów” i „Ksiąg Jakubowych”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §8"
+    },
+    {
+      "id": "people-literary-nobel-count",
+      "categoryId": "people",
+      "question": "Ilu polskich laureatów literackiej Nagrody Nobla obejmuje lista od Sienkiewicza (1905) do Tokarczuk (2018)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pięcioro"
+        },
+        {
+          "id": "b",
+          "text": "Troje"
+        },
+        {
+          "id": "c",
+          "text": "Sześcioro"
+        },
+        {
+          "id": "d",
+          "text": "Siedmioro"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Ta lista obejmuje Henryka Sienkiewicza (1905), Władysława Reymonta (1924), Czesława Miłosza (1980), Wisławę Szymborską (1996) i Olgę Tokarczuk (2018).",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §8"
+    },
+    {
+      "id": "people-pilecki",
+      "categoryId": "people",
+      "question": "Który polski żołnierz dobrowolnie trafił do Auschwitz, aby prowadzić tam działalność konspiracyjną?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Witold Pilecki"
+        },
+        {
+          "id": "b",
+          "text": "Władysław Sikorski"
+        },
+        {
+          "id": "c",
+          "text": "Józef Piłsudski"
+        },
+        {
+          "id": "d",
+          "text": "Marian Rejewski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Rotmistrz Witold Pilecki (1901–1948) dobrowolnie trafił do Auschwitz w 1940 roku, organizował tam konspirację i sporządzał raporty o zbrodniach w obozie.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-pilecki-escape",
+      "categoryId": "people",
+      "question": "W którym roku Witold Pilecki uciekł z Auschwitz?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 1943 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 1939 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 1940 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 1948 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Witold Pilecki uciekł z Auschwitz w 1943 roku. Po wojnie został skazany i stracony przez władze komunistyczne w 1948 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-kolbe",
+      "categoryId": "people",
+      "question": "Za kogo Maksymilian Maria Kolbe oddał życie w Auschwitz?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Za Franciszka Gajowniczka"
+        },
+        {
+          "id": "b",
+          "text": "Za Witolda Pileckiego"
+        },
+        {
+          "id": "c",
+          "text": "Za Władysława Sikorskiego"
+        },
+        {
+          "id": "d",
+          "text": "Za Mariana Rejewskiego"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Franciszkanin Maksymilian Maria Kolbe dobrowolnie zastąpił skazanego na śmierć Franciszka Gajowniczka. Zginął 14 sierpnia 1941 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-kolbe-niepokalanow",
+      "categoryId": "people",
+      "question": "Kto założył Niepokalanów?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Maksymilian Maria Kolbe"
+        },
+        {
+          "id": "b",
+          "text": "Jan Paweł II"
+        },
+        {
+          "id": "c",
+          "text": "Witold Pilecki"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Sikorski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Maksymilian Maria Kolbe (1894–1941) był franciszkaninem i założycielem Niepokalanowa.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-kolbe-canonization",
+      "categoryId": "people",
+      "question": "Który papież kanonizował Maksymiliana Marię Kolbego w 1982 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jan Paweł II"
+        },
+        {
+          "id": "b",
+          "text": "Jan XXIII"
+        },
+        {
+          "id": "c",
+          "text": "Paweł VI"
+        },
+        {
+          "id": "d",
+          "text": "Benedykt XVI"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Maksymilian Maria Kolbe został kanonizowany przez Jana Pawła II w 1982 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-sendlerowa",
+      "categoryId": "people",
+      "question": "Z czego znana jest Irena Sendlerowa?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z ratowania żydowskich dzieci z getta warszawskiego"
+        },
+        {
+          "id": "b",
+          "text": "Ze złamania szyfru Enigmy"
+        },
+        {
+          "id": "c",
+          "text": "Z organizowania konspiracji w Auschwitz"
+        },
+        {
+          "id": "d",
+          "text": "Z dowodzenia armią w wojnie polsko-bolszewickiej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Irena Sendlerowa (1910–2008) uczestniczyła w ratowaniu żydowskich dzieci z getta warszawskiego i działała w Radzie Pomocy Żydom „Żegota”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-sendlerowa-zegota",
+      "categoryId": "people",
+      "question": "Z jaką organizacją była związana Irena Sendlerowa?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z Radą Pomocy Żydom „Żegota”"
+        },
+        {
+          "id": "b",
+          "text": "Z Biurem Szyfrów"
+        },
+        {
+          "id": "c",
+          "text": "Z ruchem „Solidarność”"
+        },
+        {
+          "id": "d",
+          "text": "Z Radą Europejską"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Irena Sendlerowa działała w „Żegocie”, organizacji niosącej pomoc Żydom podczas niemieckiej okupacji.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-sendlerowa-alias",
+      "categoryId": "people",
+      "question": "Jakiego pseudonimu używała Irena Sendlerowa w konspiracji?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Jolanta”"
+        },
+        {
+          "id": "b",
+          "text": "„Inka”"
+        },
+        {
+          "id": "c",
+          "text": "„Nil”"
+        },
+        {
+          "id": "d",
+          "text": "„Lalek”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Konspiracyjnym pseudonimem Ireny Sendlerowej była „Jolanta”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-righteous-title",
+      "categoryId": "people",
+      "question": "Jakim tytułem honoruje się osoby nieżydowskiego pochodzenia, które bezinteresownie ratowały Żydów podczas Zagłady?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sprawiedliwy wśród Narodów Świata"
+        },
+        {
+          "id": "b",
+          "text": "Laureat Pokojowej Nagrody Nobla"
+        },
+        {
+          "id": "c",
+          "text": "Honorowy Obywatel Europy"
+        },
+        {
+          "id": "d",
+          "text": "Laureat Nagrody Sacharowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Tytuł Sprawiedliwego wśród Narodów Świata przyznaje Instytut Yad Vashem. Uhonorowano nim między innymi Irenę Sendlerową.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §9"
+    },
+    {
+      "id": "people-enigma-team",
+      "categoryId": "people",
+      "question": "Którzy polscy matematycy pracowali nad złamaniem szyfru Enigmy?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Marian Rejewski, Jerzy Różycki i Henryk Zygalski"
+        },
+        {
+          "id": "b",
+          "text": "Mikołaj Kopernik, Jan Heweliusz i Stefan Banach"
+        },
+        {
+          "id": "c",
+          "text": "Witold Pilecki, Władysław Sikorski i Józef Piłsudski"
+        },
+        {
+          "id": "d",
+          "text": "Stefan Banach, Marian Rejewski i Jan Heweliusz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Marian Rejewski, Jerzy Różycki i Henryk Zygalski byli matematykami związanymi z polskim Biurem Szyfrów.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §10"
+    },
+    {
+      "id": "people-enigma-year",
+      "categoryId": "people",
+      "question": "W którym roku Marian Rejewski złamał szyfr Enigmy?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W 1932 roku"
+        },
+        {
+          "id": "b",
+          "text": "W 1918 roku"
+        },
+        {
+          "id": "c",
+          "text": "W 1939 roku"
+        },
+        {
+          "id": "d",
+          "text": "W 1945 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Marian Rejewski dokonał przełomu w odczytywaniu szyfru niemieckiej maszyny Enigma w 1932 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §10"
+    },
+    {
+      "id": "people-enigma-allies",
+      "categoryId": "people",
+      "question": "Komu Polacy przekazali swoje osiągnięcia dotyczące Enigmy w lipcu 1939 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Brytyjczykom i Francuzom"
+        },
+        {
+          "id": "b",
+          "text": "Niemcom i Włochom"
+        },
+        {
+          "id": "c",
+          "text": "Szwedom i Norwegom"
+        },
+        {
+          "id": "d",
+          "text": "Amerykanom i Japończykom"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W lipcu 1939 roku Polacy podzielili się osiągnięciami kryptologicznymi z Brytyjczykami i Francuzami, wspierając dalsze alianckie prace nad Enigmą.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §10"
+    },
+    {
+      "id": "people-enigma-pyry",
+      "categoryId": "people",
+      "question": "Gdzie odbyło się spotkanie, podczas którego w lipcu 1939 roku Polacy przekazali sojusznikom wiedzę o Enigmie?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Pyrach pod Warszawą"
+        },
+        {
+          "id": "b",
+          "text": "W Bletchley Park"
+        },
+        {
+          "id": "c",
+          "text": "W Gibraltarze"
+        },
+        {
+          "id": "d",
+          "text": "W Gdańsku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Spotkanie odbyło się w Pyrach pod Warszawą. Polska wiedza pomogła później w pracach brytyjskiego ośrodka Bletchley Park.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §10"
+    },
+    {
+      "id": "people-lewandowski",
+      "categoryId": "people",
+      "question": "Z jaką dyscypliną sportową jest związany Robert Lewandowski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z piłką nożną"
+        },
+        {
+          "id": "b",
+          "text": "Z siatkówką"
+        },
+        {
+          "id": "c",
+          "text": "Z tenisem"
+        },
+        {
+          "id": "d",
+          "text": "Z koszykówką"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Robert Lewandowski jest polskim piłkarzem, znanym z występów w reprezentacji Polski.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-swiatek",
+      "categoryId": "people",
+      "question": "Jaką dyscyplinę uprawia Iga Świątek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Tenis"
+        },
+        {
+          "id": "b",
+          "text": "Badminton"
+        },
+        {
+          "id": "c",
+          "text": "Siatkówkę"
+        },
+        {
+          "id": "d",
+          "text": "Tenis stołowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Iga Świątek jest polską tenisistką i zwyciężczynią turniejów Wielkiego Szlema.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-malysz-stoch",
+      "categoryId": "people",
+      "question": "W jakiej dyscyplinie zasłynęli Adam Małysz i Kamil Stoch?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W skokach narciarskich"
+        },
+        {
+          "id": "b",
+          "text": "W biegach narciarskich"
+        },
+        {
+          "id": "c",
+          "text": "W narciarstwie alpejskim"
+        },
+        {
+          "id": "d",
+          "text": "W biathlonie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Adam Małysz i Kamil Stoch są polskimi skoczkami narciarskimi. Małysz zdobył trzy srebrne i jeden brązowy medal olimpijski.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-wlodarczyk",
+      "categoryId": "people",
+      "question": "W jakiej konkurencji lekkoatletycznej zasłynęła Anita Włodarczyk?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W rzucie młotem"
+        },
+        {
+          "id": "b",
+          "text": "W rzucie oszczepem"
+        },
+        {
+          "id": "c",
+          "text": "W skoku o tyczce"
+        },
+        {
+          "id": "d",
+          "text": "W pchnięciu kulą"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Anita Włodarczyk jest polską zawodniczką rzutu młotem i trzykrotną mistrzynią olimpijską.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-kowalczyk",
+      "categoryId": "people",
+      "question": "Z jaką dyscypliną jest związana Justyna Kowalczyk?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z biegami narciarskimi"
+        },
+        {
+          "id": "b",
+          "text": "Ze skokami narciarskimi"
+        },
+        {
+          "id": "c",
+          "text": "Z łyżwiarstwem figurowym"
+        },
+        {
+          "id": "d",
+          "text": "Z biathlonem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Justyna Kowalczyk jest znana z sukcesów w biegach narciarskich.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-kubica",
+      "categoryId": "people",
+      "question": "Z jaką serią wyścigową jest związany Robert Kubica?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z Formułą 1"
+        },
+        {
+          "id": "b",
+          "text": "Z MotoGP"
+        },
+        {
+          "id": "c",
+          "text": "Z Tour de France"
+        },
+        {
+          "id": "d",
+          "text": "Z Pucharem Świata w skokach narciarskich"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Robert Kubica jest polskim kierowcą wyścigowym, który startował w Formule 1.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-volleyball",
+      "categoryId": "people",
+      "question": "W której z tych dyscyplin męska reprezentacja Polski wielokrotnie zdobywała mistrzostwo świata?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W siatkówce"
+        },
+        {
+          "id": "b",
+          "text": "W piłce nożnej"
+        },
+        {
+          "id": "c",
+          "text": "W koszykówce"
+        },
+        {
+          "id": "d",
+          "text": "W rugby"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polscy siatkarze wielokrotnie zostawali mistrzami świata. Wśród popularnych w Polsce sportów są też piłka nożna, skoki narciarskie i żużel.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §11"
+    },
+    {
+      "id": "people-gall",
+      "categoryId": "people",
+      "question": "Kim był Gall Anonim?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Autorem pierwszej kroniki dziejów Polski"
+        },
+        {
+          "id": "b",
+          "text": "Twórcą teorii heliocentrycznej"
+        },
+        {
+          "id": "c",
+          "text": "Autorem epopei „Pan Tadeusz”"
+        },
+        {
+          "id": "d",
+          "text": "Reżyserem filmu „Katyń”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Gall Anonim jest autorem „Kroniki polskiej”, powstałej około 1113–1116 roku. Jego imię i pochodzenie nie są pewne.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §12"
+    },
+    {
+      "id": "people-gall-language",
+      "categoryId": "people",
+      "question": "W jakim języku Gall Anonim napisał swoją kronikę?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Po łacinie"
+        },
+        {
+          "id": "b",
+          "text": "Po polsku"
+        },
+        {
+          "id": "c",
+          "text": "Po francusku"
+        },
+        {
+          "id": "d",
+          "text": "Po niemiecku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pierwsza kronika dziejów Polski, autorstwa Galla Anonima, została napisana po łacinie na początku XII wieku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §12"
+    },
+    {
+      "id": "people-kadlubek",
+      "categoryId": "people",
+      "question": "Który kronikarz działał w XIII wieku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wincenty Kadłubek"
+        },
+        {
+          "id": "b",
+          "text": "Jan Długosz"
+        },
+        {
+          "id": "c",
+          "text": "Jan Kochanowski"
+        },
+        {
+          "id": "d",
+          "text": "Adam Mickiewicz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Wincenty Kadłubek należy do polskich kronikarzy XIII wieku; wcześniejszą kronikę napisał Gall Anonim.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §12"
+    },
+    {
+      "id": "people-dlugosz",
+      "categoryId": "people",
+      "question": "Który polski kronikarz żył w XV wieku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jan Długosz"
+        },
+        {
+          "id": "b",
+          "text": "Gall Anonim"
+        },
+        {
+          "id": "c",
+          "text": "Wincenty Kadłubek"
+        },
+        {
+          "id": "d",
+          "text": "Julian Tuwim"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Długosz był kronikarzem XV wieku. Gall Anonim tworzył w XII wieku, a Wincenty Kadłubek na przełomie XII i XIII wieku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §12"
+    },
+    {
+      "id": "people-katyn-film",
+      "categoryId": "people",
+      "question": "Który film Andrzeja Wajdy opowiada o zbrodni katyńskiej?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Katyń”"
+        },
+        {
+          "id": "b",
+          "text": "„Pianista”"
+        },
+        {
+          "id": "c",
+          "text": "„Ida”"
+        },
+        {
+          "id": "d",
+          "text": "„Potop”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Film „Katyń” Andrzeja Wajdy dotyczy zbrodni katyńskiej.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §13"
+    },
+    {
+      "id": "people-ida-director",
+      "categoryId": "people",
+      "question": "Kto wyreżyserował film „Ida”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Paweł Pawlikowski"
+        },
+        {
+          "id": "b",
+          "text": "Andrzej Wajda"
+        },
+        {
+          "id": "c",
+          "text": "Roman Polański"
+        },
+        {
+          "id": "d",
+          "text": "Jerzy Hoffman"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Paweł Pawlikowski jest reżyserem „Idy”, nagrodzonej Oscarem w 2015 roku w kategorii najlepszego filmu nieanglojęzycznego.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §13"
+    },
+    {
+      "id": "people-ida-oscar",
+      "categoryId": "people",
+      "question": "Który polski film otrzymał w 2015 roku Oscara dla najlepszego filmu nieanglojęzycznego?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Ida”"
+        },
+        {
+          "id": "b",
+          "text": "„Katyń”"
+        },
+        {
+          "id": "c",
+          "text": "„Potop”"
+        },
+        {
+          "id": "d",
+          "text": "„Sami swoi”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Oscara w tej kategorii zdobyła w 2015 roku „Ida” Pawła Pawlikowskiego.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §13"
+    },
+    {
+      "id": "people-chlopi-animation",
+      "categoryId": "people",
+      "question": "Na czyjej powieści oparto animację malarską „Chłopi”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Władysława Reymonta"
+        },
+        {
+          "id": "b",
+          "text": "Henryka Sienkiewicza"
+        },
+        {
+          "id": "c",
+          "text": "Adama Mickiewicza"
+        },
+        {
+          "id": "d",
+          "text": "Stanisława Lema"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Animacja malarska „Chłopi” jest adaptacją powieści Władysława Reymonta.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §13"
+    },
+    {
+      "id": "people-sami-swoi",
+      "categoryId": "people",
+      "question": "Która polska komedia opowiada o przesiedleńcach zza Buga?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Sami swoi”"
+        },
+        {
+          "id": "b",
+          "text": "„Katyń”"
+        },
+        {
+          "id": "c",
+          "text": "„Ida”"
+        },
+        {
+          "id": "d",
+          "text": "„Pianista”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Sami swoi” to polska komedia o przesiedleńcach zza Buga.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §13"
+    },
+    {
+      "id": "people-war-series",
+      "categoryId": "people",
+      "question": "Która para tytułów obejmuje polskie seriale wojenne?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "„Czterej pancerni i pies” i „Stawka większa niż życie”"
+        },
+        {
+          "id": "b",
+          "text": "„Ida” i „Sami swoi”"
+        },
+        {
+          "id": "c",
+          "text": "„Chłopi” i „Pan Tadeusz”"
+        },
+        {
+          "id": "d",
+          "text": "„Barwy ochronne” i „Chinatown”"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "„Czterej pancerni i pies” oraz „Stawka większa niż życie” należą do znanych polskich seriali wojennych. „Ogniem i mieczem”, „Potop” i „Pan Tadeusz” to ekranizacje klasyki literatury.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §13"
+    },
+    {
+      "id": "people-tusk-european-council",
+      "categoryId": "people",
+      "question": "Który polski polityk pełnił funkcję przewodniczącego Rady Europejskiej?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Donald Tusk"
+        },
+        {
+          "id": "b",
+          "text": "Lech Wałęsa"
+        },
+        {
+          "id": "c",
+          "text": "Józef Piłsudski"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Sikorski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Donald Tusk pełnił funkcję przewodniczącego Rady Europejskiej. Był również premierem Polski.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §14"
+    },
+    {
+      "id": "people-penderecki-kilar",
+      "categoryId": "people",
+      "question": "Z jakiej dziedziny twórczości znani są Krzysztof Penderecki i Wojciech Kilar?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z komponowania muzyki, także filmowej"
+        },
+        {
+          "id": "b",
+          "text": "Z reżyserowania filmów historycznych"
+        },
+        {
+          "id": "c",
+          "text": "Z pisania powieści science fiction"
+        },
+        {
+          "id": "d",
+          "text": "Z malarstwa historycznego"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Krzysztof Penderecki i Wojciech Kilar byli polskimi kompozytorami; ich muzyka jest obecna także w kinie.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §14"
+    },
+    {
+      "id": "people-sapkowski",
+      "categoryId": "people",
+      "question": "Kto jest autorem sagi o Wiedźminie?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Andrzej Sapkowski"
+        },
+        {
+          "id": "b",
+          "text": "Stanisław Lem"
+        },
+        {
+          "id": "c",
+          "text": "Henryk Sienkiewicz"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Reymont"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Andrzej Sapkowski jest autorem literackiej sagi o Wiedźminie.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §14"
+    },
+    {
+      "id": "people-lem",
+      "categoryId": "people",
+      "question": "Który pisarz science fiction napisał „Solaris”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stanisław Lem"
+        },
+        {
+          "id": "b",
+          "text": "Andrzej Sapkowski"
+        },
+        {
+          "id": "c",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "d",
+          "text": "Adam Mickiewicz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stanisław Lem był pisarzem science fiction i autorem powieści „Solaris”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §14"
+    },
+    {
+      "id": "people-cd-projekt",
+      "categoryId": "people",
+      "question": "Które polskie studio stworzyło gry „Wiedźmin 3” i „Cyberpunk 2077”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "CD Projekt Red"
+        },
+        {
+          "id": "b",
+          "text": "Ubisoft"
+        },
+        {
+          "id": "c",
+          "text": "Rockstar Games"
+        },
+        {
+          "id": "d",
+          "text": "Bethesda Game Studios"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "CD Projekt Red to polskie studio gier, twórca „Wiedźmina 3” oraz „Cyberpunka 2077”.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §14"
     },
     {
       "id": "general-capital",
