@@ -44,6 +44,8 @@ npm run preview        # перегляд production-збірки
 
 ## GitHub Pages
 
+Публікація наразі заблокована тарифом GitHub: API створення Pages для приватного `ap-arto/kp-quiz` повернув HTTP 422 — `Your current plan does not support GitHub Pages for this repository.` Сайт ще не опубліковано; приватність репозиторію не змінено. Потрібен тариф із Pages для приватних репозиторіїв або окреме рішення про інший спосіб публікації.
+
 Збірка використовує базовий шлях `/kp-quiz/`; окремий роутер не потрібен. Workflow `.github/workflows/ci.yml` перевіряє код, запускає браузерні тести та готує Pages artifact при push у `main`, у pull request і при ручному запуску.
 
 Деплой виконується лише якщо repository variable `PAGES_ENABLED` дорівнює `true`. Перед увімкненням потрібно налаштувати **Settings → Pages → Source: GitHub Actions**. Для приватного репозиторію доступність Pages залежить від тарифу GitHub. Workflow не змінює приватність репозиторію.
