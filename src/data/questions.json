@@ -1,0 +1,1193 @@
+{
+  "language": "pl",
+  "categories": [
+    {
+      "id": "symbols",
+      "name": {
+        "uk": "Символи Польщі",
+        "pl": "Symbole Polski"
+      }
+    },
+    {
+      "id": "geography",
+      "name": {
+        "uk": "Географія",
+        "pl": "Geografia"
+      }
+    },
+    {
+      "id": "history",
+      "name": {
+        "uk": "Історія",
+        "pl": "Historia"
+      }
+    },
+    {
+      "id": "traditions",
+      "name": {
+        "uk": "Традиції та свята",
+        "pl": "Tradycje i święta"
+      }
+    },
+    {
+      "id": "people",
+      "name": {
+        "uk": "Відомі поляки",
+        "pl": "Znani Polacy"
+      }
+    },
+    {
+      "id": "general",
+      "name": {
+        "uk": "Польща щодня",
+        "pl": "Polska na co dzień"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "symbols-flag",
+      "categoryId": "symbols",
+      "question": "Jakie kolory ma flaga Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Biały i czerwony"
+        },
+        {
+          "id": "b",
+          "text": "Biały i niebieski"
+        },
+        {
+          "id": "c",
+          "text": "Czerwony i zielony"
+        },
+        {
+          "id": "d",
+          "text": "Niebieski i żółty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polska flaga jest biało-czerwona.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §1"
+    },
+    {
+      "id": "symbols-eagle",
+      "categoryId": "symbols",
+      "question": "Co przedstawia godło Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Białego orła w złotej koronie na czerwonym tle"
+        },
+        {
+          "id": "b",
+          "text": "Czarnego orła na złotym tle"
+        },
+        {
+          "id": "c",
+          "text": "Białego orła bez korony na niebieskim tle"
+        },
+        {
+          "id": "d",
+          "text": "Złotego lwa na czerwonym tle"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Godłem Polski jest Orzeł Biały w złotej koronie na czerwonym tle.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §2"
+    },
+    {
+      "id": "symbols-anthem",
+      "categoryId": "symbols",
+      "question": "Jak nazywa się hymn Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mazurek Dąbrowskiego"
+        },
+        {
+          "id": "b",
+          "text": "Rota"
+        },
+        {
+          "id": "c",
+          "text": "Bogurodzica"
+        },
+        {
+          "id": "d",
+          "text": "Warszawianka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Hymnem Polski jest Mazurek Dąbrowskiego, napisany w 1797 roku.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §3"
+    },
+    {
+      "id": "symbols-anthem-author",
+      "categoryId": "symbols",
+      "question": "Kto napisał słowa Mazurka Dąbrowskiego?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Józef Wybicki"
+        },
+        {
+          "id": "b",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Juliusz Słowacki"
+        },
+        {
+          "id": "d",
+          "text": "Henryk Sienkiewicz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Józef Wybicki napisał słowa hymnu w 1797 roku.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §3"
+    },
+    {
+      "id": "symbols-medieval-song",
+      "categoryId": "symbols",
+      "question": "Która pieśń pełniła w średniowieczu rolę hymnu?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bogurodzica"
+        },
+        {
+          "id": "b",
+          "text": "Mazurek Dąbrowskiego"
+        },
+        {
+          "id": "c",
+          "text": "Rota"
+        },
+        {
+          "id": "d",
+          "text": "Czerwone maki na Monte Cassino"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W średniowieczu rolę hymnu pełniła pieśń Bogurodzica.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §4"
+    },
+    {
+      "id": "geography-sea",
+      "categoryId": "geography",
+      "question": "Nad jakim morzem leży Polska?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Morzem Bałtyckim"
+        },
+        {
+          "id": "b",
+          "text": "Morzem Czarnym"
+        },
+        {
+          "id": "c",
+          "text": "Morzem Północnym"
+        },
+        {
+          "id": "d",
+          "text": "Morzem Adriatyckim"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polska leży nad Morzem Bałtyckim, na północy kraju.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §6"
+    },
+    {
+      "id": "geography-tricity",
+      "categoryId": "geography",
+      "question": "Które miasta tworzą Trójmiasto?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Gdańsk, Gdynia i Sopot"
+        },
+        {
+          "id": "b",
+          "text": "Gdańsk, Toruń i Poznań"
+        },
+        {
+          "id": "c",
+          "text": "Szczecin, Kołobrzeg i Sopot"
+        },
+        {
+          "id": "d",
+          "text": "Kraków, Katowice i Łódź"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Trójmiasto to Gdańsk, Gdynia i Sopot — miasta położone nad Bałtykiem.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §7"
+    },
+    {
+      "id": "geography-river",
+      "categoryId": "geography",
+      "question": "Jaka jest najdłuższa rzeka Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wisła"
+        },
+        {
+          "id": "b",
+          "text": "Odra"
+        },
+        {
+          "id": "c",
+          "text": "Warta"
+        },
+        {
+          "id": "d",
+          "text": "Bug"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Wisła jest najdłuższą polską rzeką.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §9"
+    },
+    {
+      "id": "geography-lake",
+      "categoryId": "geography",
+      "question": "Jakie jest największe jezioro w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Śniardwy"
+        },
+        {
+          "id": "b",
+          "text": "Mamry"
+        },
+        {
+          "id": "c",
+          "text": "Hańcza"
+        },
+        {
+          "id": "d",
+          "text": "Morskie Oko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Śniardwy leżą na Pojezierzu Mazurskim i są największym jeziorem w Polsce.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §10"
+    },
+    {
+      "id": "geography-deepest-lake",
+      "categoryId": "geography",
+      "question": "Jakie jest najgłębsze jezioro w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hańcza"
+        },
+        {
+          "id": "b",
+          "text": "Śniardwy"
+        },
+        {
+          "id": "c",
+          "text": "Mamry"
+        },
+        {
+          "id": "d",
+          "text": "Morskie Oko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Hańcza znajduje się w północno-wschodniej Polsce.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §10"
+    },
+    {
+      "id": "geography-mountains",
+      "categoryId": "geography",
+      "question": "Które góry są najwyższe w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Tatry"
+        },
+        {
+          "id": "b",
+          "text": "Góry Świętokrzyskie"
+        },
+        {
+          "id": "c",
+          "text": "Góry Stołowe"
+        },
+        {
+          "id": "d",
+          "text": "Bieszczady"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Tatry leżą na granicy ze Słowacją. Znajduje się w nich najwyższy szczyt Polski — Rysy.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §12"
+    },
+    {
+      "id": "geography-wawel",
+      "categoryId": "geography",
+      "question": "W jakim mieście znajduje się Wawel?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Krakowie"
+        },
+        {
+          "id": "b",
+          "text": "W Warszawie"
+        },
+        {
+          "id": "c",
+          "text": "W Gdańsku"
+        },
+        {
+          "id": "d",
+          "text": "W Poznaniu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Zamek Królewski na Wawelu w Krakowie był przez wieki siedzibą królów.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §14"
+    },
+    {
+      "id": "geography-salt-mine",
+      "categoryId": "geography",
+      "question": "Z czego słynie Wieliczka?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z kopalni soli"
+        },
+        {
+          "id": "b",
+          "text": "Z zamku krzyżackiego"
+        },
+        {
+          "id": "c",
+          "text": "Z pierników"
+        },
+        {
+          "id": "d",
+          "text": "Z Jasnej Góry"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W kopalni soli w Wieliczce znajduje się kaplica św. Kingi.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §18"
+    },
+    {
+      "id": "history-first-ruler",
+      "categoryId": "history",
+      "question": "Kto był pierwszym historycznie potwierdzonym władcą Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mieszko I"
+        },
+        {
+          "id": "b",
+          "text": "Bolesław Chrobry"
+        },
+        {
+          "id": "c",
+          "text": "Kazimierz Wielki"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Jagiełło"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Mieszko I pochodził z dynastii Piastów. Głównym obszarem jego państwa była Wielkopolska.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §1"
+    },
+    {
+      "id": "history-baptism",
+      "categoryId": "history",
+      "question": "W którym roku odbył się chrzest Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "966"
+        },
+        {
+          "id": "b",
+          "text": "1000"
+        },
+        {
+          "id": "c",
+          "text": "1025"
+        },
+        {
+          "id": "d",
+          "text": "1138"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 966 roku Mieszko I przyjął chrześcijaństwo, włączając państwo w krąg chrześcijańskiej Europy.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §2"
+    },
+    {
+      "id": "history-first-king",
+      "categoryId": "history",
+      "question": "Kto był pierwszym królem Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bolesław Chrobry"
+        },
+        {
+          "id": "b",
+          "text": "Mieszko I"
+        },
+        {
+          "id": "c",
+          "text": "Władysław Łokietek"
+        },
+        {
+          "id": "d",
+          "text": "Kazimierz Odnowiciel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Bolesław Chrobry, syn Mieszka I, został koronowany w 1025 roku.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §3"
+    },
+    {
+      "id": "history-dynasty",
+      "categoryId": "history",
+      "question": "Jaka była pierwsza dynastia panująca w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Piastowie"
+        },
+        {
+          "id": "b",
+          "text": "Jagiellonowie"
+        },
+        {
+          "id": "c",
+          "text": "Wazowie"
+        },
+        {
+          "id": "d",
+          "text": "Wettinowie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Do Piastów należeli Mieszko I i Bolesław Chrobry. Ostatnim królem tej dynastii był Kazimierz Wielki.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §4"
+    },
+    {
+      "id": "history-gniezno",
+      "categoryId": "history",
+      "question": "W którym roku odbył się zjazd gnieźnieński?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1000"
+        },
+        {
+          "id": "b",
+          "text": "966"
+        },
+        {
+          "id": "c",
+          "text": "1025"
+        },
+        {
+          "id": "d",
+          "text": "1226"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 1000 roku w Gnieźnie spotkali się Bolesław Chrobry i cesarz Otton III.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §8"
+    },
+    {
+      "id": "history-university",
+      "categoryId": "history",
+      "question": "Kto założył Akademię Krakowską?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Kazimierz Wielki"
+        },
+        {
+          "id": "b",
+          "text": "Władysław Jagiełło"
+        },
+        {
+          "id": "c",
+          "text": "Jan III Sobieski"
+        },
+        {
+          "id": "d",
+          "text": "Zygmunt III Waza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Kazimierz Wielki założył Akademię Krakowską w 1364 roku. To dzisiejszy Uniwersytet Jagielloński.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §18"
+    },
+    {
+      "id": "history-grunwald",
+      "categoryId": "history",
+      "question": "Kiedy odbyła się bitwa pod Grunwaldem?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 lipca 1410 roku"
+        },
+        {
+          "id": "b",
+          "text": "12 września 1683 roku"
+        },
+        {
+          "id": "c",
+          "text": "3 maja 1791 roku"
+        },
+        {
+          "id": "d",
+          "text": "11 listopada 1918 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pod Grunwaldem wojska polsko-litewskie pod dowództwem Władysława Jagiełły pokonały Krzyżaków.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §22"
+    },
+    {
+      "id": "history-lublin",
+      "categoryId": "history",
+      "question": "Kiedy zawarto unię lubelską?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1569"
+        },
+        {
+          "id": "b",
+          "text": "1385"
+        },
+        {
+          "id": "c",
+          "text": "1573"
+        },
+        {
+          "id": "d",
+          "text": "1791"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 1569 roku Polska i Litwa utworzyły Rzeczpospolitą Obojga Narodów.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §24"
+    },
+    {
+      "id": "history-vienna",
+      "categoryId": "history",
+      "question": "Który król dowodził wojskami sprzymierzonymi w odsieczy wiedeńskiej?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jan III Sobieski"
+        },
+        {
+          "id": "b",
+          "text": "Stefan Batory"
+        },
+        {
+          "id": "c",
+          "text": "Zygmunt II August"
+        },
+        {
+          "id": "d",
+          "text": "Stanisław August Poniatowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "12 września 1683 roku Jan III Sobieski dowodził wojskami, które pokonały armię osmańską pod Wiedniem.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §33"
+    },
+    {
+      "id": "history-last-king",
+      "categoryId": "history",
+      "question": "Kto był ostatnim królem Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stanisław August Poniatowski"
+        },
+        {
+          "id": "b",
+          "text": "Jan III Sobieski"
+        },
+        {
+          "id": "c",
+          "text": "August III Sas"
+        },
+        {
+          "id": "d",
+          "text": "Zygmunt III Waza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stanisław August Poniatowski panował w latach 1764–1795. Za jego panowania doszło do trzech rozbiorów.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §35"
+    },
+    {
+      "id": "history-constitution",
+      "categoryId": "history",
+      "question": "W którym roku uchwalono Konstytucję 3 maja?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1791"
+        },
+        {
+          "id": "b",
+          "text": "1772"
+        },
+        {
+          "id": "c",
+          "text": "1793"
+        },
+        {
+          "id": "d",
+          "text": "1918"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Konstytucję uchwalono 3 maja 1791 roku. Zniosła liberum veto i wolną elekcję.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §41"
+    },
+    {
+      "id": "history-independence",
+      "categoryId": "history",
+      "question": "Dlaczego Święto Niepodległości obchodzimy 11 listopada?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Data symbolizuje odzyskanie niepodległości w 1918 roku"
+        },
+        {
+          "id": "b",
+          "text": "Tego dnia uchwalono Konstytucję 3 maja"
+        },
+        {
+          "id": "c",
+          "text": "Tego dnia odbył się chrzest Polski"
+        },
+        {
+          "id": "d",
+          "text": "Tego dnia odbyła się bitwa pod Grunwaldem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "11 listopada 1918 roku Józef Piłsudski przejął władzę wojskową od Rady Regencyjnej.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §51"
+    },
+    {
+      "id": "traditions-epiphany",
+      "categoryId": "traditions",
+      "question": "Kiedy obchodzimy Święto Trzech Króli?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6 stycznia"
+        },
+        {
+          "id": "b",
+          "text": "1 stycznia"
+        },
+        {
+          "id": "c",
+          "text": "6 grudnia"
+        },
+        {
+          "id": "d",
+          "text": "25 grudnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Święto Trzech Króli, czyli Objawienie Pańskie, upamiętnia przybycie Mędrców do Betlejem.",
+      "source": "kp-data/data/questions/04-tradycje.md §2"
+    },
+    {
+      "id": "traditions-lent",
+      "categoryId": "traditions",
+      "question": "Który dzień rozpoczyna Wielki Post w Kościele katolickim?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Środa Popielcowa"
+        },
+        {
+          "id": "b",
+          "text": "Tłusty Czwartek"
+        },
+        {
+          "id": "c",
+          "text": "Niedziela Palmowa"
+        },
+        {
+          "id": "d",
+          "text": "Wielki Piątek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Środa Popielcowa, zwana Popielcem, jest pierwszym dniem Wielkiego Postu.",
+      "source": "kp-data/data/questions/04-tradycje.md §5"
+    },
+    {
+      "id": "traditions-dyngus",
+      "categoryId": "traditions",
+      "question": "Kiedy obchodzony jest śmigus-dyngus?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Poniedziałek Wielkanocny"
+        },
+        {
+          "id": "b",
+          "text": "W Wielką Sobotę"
+        },
+        {
+          "id": "c",
+          "text": "W Niedzielę Palmową"
+        },
+        {
+          "id": "d",
+          "text": "W Wigilię"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Poniedziałek Wielkanocny jest też nazywany Lanym Poniedziałkiem; wiąże się ze zwyczajem polewania wodą.",
+      "source": "kp-data/data/questions/04-tradycje.md §9"
+    },
+    {
+      "id": "traditions-harvest",
+      "categoryId": "traditions",
+      "question": "Co świętuje się podczas dożynek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Zakończenie zbiorów"
+        },
+        {
+          "id": "b",
+          "text": "Początek Wielkiego Postu"
+        },
+        {
+          "id": "c",
+          "text": "Nadejście Nowego Roku"
+        },
+        {
+          "id": "d",
+          "text": "Początek zimy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Dożynki są świętem rolników obchodzonym po zebraniu plonów, głównie zbóż.",
+      "source": "kp-data/data/questions/04-tradycje.md §11"
+    },
+    {
+      "id": "traditions-christmas-eve",
+      "categoryId": "traditions",
+      "question": "Czym tradycyjnie dzielimy się podczas Wigilii?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Opłatkiem"
+        },
+        {
+          "id": "b",
+          "text": "Poświęconym jajkiem"
+        },
+        {
+          "id": "c",
+          "text": "Pączkiem"
+        },
+        {
+          "id": "d",
+          "text": "Pisanką"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Podczas Wigilii dzielimy się opłatkiem i składamy sobie życzenia.",
+      "source": "kp-data/data/questions/04-tradycje.md §17"
+    },
+    {
+      "id": "traditions-midnight-mass",
+      "categoryId": "traditions",
+      "question": "Czym jest pasterka?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mszą w noc Bożego Narodzenia"
+        },
+        {
+          "id": "b",
+          "text": "Śniadaniem wielkanocnym"
+        },
+        {
+          "id": "c",
+          "text": "Świętem plonów"
+        },
+        {
+          "id": "d",
+          "text": "Zwyczajem topienia kukły"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pasterka to tradycyjna msza odprawiana o północy z 24 na 25 grudnia.",
+      "source": "kp-data/data/questions/04-tradycje.md §21"
+    },
+    {
+      "id": "traditions-polonaise",
+      "categoryId": "traditions",
+      "question": "Jakim tańcem tradycyjnie otwiera się studniówkę?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Polonezem"
+        },
+        {
+          "id": "b",
+          "text": "Oberkiem"
+        },
+        {
+          "id": "c",
+          "text": "Kujawiakiem"
+        },
+        {
+          "id": "d",
+          "text": "Krakowiakiem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polonez jest dostojnym tańcem korowodowym, jednym z pięciu polskich tańców narodowych.",
+      "source": "kp-data/data/questions/04-tradycje.md §25"
+    },
+    {
+      "id": "traditions-basket",
+      "categoryId": "traditions",
+      "question": "Kiedy święci się pokarmy w koszyczku wielkanocnym?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Wielką Sobotę"
+        },
+        {
+          "id": "b",
+          "text": "W Wielki Piątek"
+        },
+        {
+          "id": "c",
+          "text": "W Środę Popielcową"
+        },
+        {
+          "id": "d",
+          "text": "W Poniedziałek Wielkanocny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Święconkę przygotowuje się w Wielką Sobotę. Pokarmy je się na śniadaniu w Niedzielę Wielkanocną.",
+      "source": "kp-data/data/questions/04-tradycje.md §28"
+    },
+    {
+      "id": "people-copernicus",
+      "categoryId": "people",
+      "question": "W jakim mieście urodził się Mikołaj Kopernik?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Toruniu"
+        },
+        {
+          "id": "b",
+          "text": "W Gdańsku"
+        },
+        {
+          "id": "c",
+          "text": "W Warszawie"
+        },
+        {
+          "id": "d",
+          "text": "We Wrocławiu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Mikołaj Kopernik, astronom i twórca teorii heliocentrycznej, urodził się w Toruniu w 1473 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §1"
+    },
+    {
+      "id": "people-chopin",
+      "categoryId": "people",
+      "question": "Kim był Fryderyk Chopin?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Kompozytorem i pianistą"
+        },
+        {
+          "id": "b",
+          "text": "Malarzem historycznym"
+        },
+        {
+          "id": "c",
+          "text": "Astronomem"
+        },
+        {
+          "id": "d",
+          "text": "Reżyserem filmowym"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Fryderyk Chopin był kompozytorem okresu romantyzmu, nazywanym poetą fortepianu.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §2"
+    },
+    {
+      "id": "people-tadeusz",
+      "categoryId": "people",
+      "question": "Kto napisał Pana Tadeusza?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "b",
+          "text": "Henryk Sienkiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Juliusz Słowacki"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Reymont"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pan Tadeusz to epopeja Adama Mickiewicza, napisana w latach 1832–1834.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §4"
+    },
+    {
+      "id": "people-curie",
+      "categoryId": "people",
+      "question": "Jakie pierwiastki odkryła Maria Skłodowska-Curie?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Polon i rad"
+        },
+        {
+          "id": "b",
+          "text": "Wodór i tlen"
+        },
+        {
+          "id": "c",
+          "text": "Żelazo i miedź"
+        },
+        {
+          "id": "d",
+          "text": "Hel i neon"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Maria Skłodowska-Curie otrzymała Nagrody Nobla z fizyki w 1903 roku i z chemii w 1911 roku.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-chlopi",
+      "categoryId": "people",
+      "question": "Kto napisał powieść Chłopi?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Władysław Reymont"
+        },
+        {
+          "id": "b",
+          "text": "Henryk Sienkiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "d",
+          "text": "Stanisław Lem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Władysław Reymont otrzymał literacką Nagrodę Nobla w 1924 roku za powieść Chłopi.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §5"
+    },
+    {
+      "id": "people-matejko",
+      "categoryId": "people",
+      "question": "Który malarz stworzył Bitwę pod Grunwaldem?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jan Matejko"
+        },
+        {
+          "id": "b",
+          "text": "Józef Chełmoński"
+        },
+        {
+          "id": "c",
+          "text": "Jacek Malczewski"
+        },
+        {
+          "id": "d",
+          "text": "Tamara Łempicka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jan Matejko był malarzem historycznym. Namalował także Hołd pruski i Stańczyka.",
+      "source": "kp-data/data/questions/05-znani-pisarze-naukowcy-i-artysci-polscy.md §7"
+    },
+    {
+      "id": "general-capital",
+      "categoryId": "general",
+      "question": "Jakie miasto jest stolicą Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warszawa"
+        },
+        {
+          "id": "b",
+          "text": "Kraków"
+        },
+        {
+          "id": "c",
+          "text": "Gniezno"
+        },
+        {
+          "id": "d",
+          "text": "Poznań"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stolicą Polski jest Warszawa. Jej herb przedstawia Syrenkę.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §2"
+    },
+    {
+      "id": "general-dragon",
+      "categoryId": "general",
+      "question": "Gdzie według legendy mieszkał Smok Wawelski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W grocie pod Wawelem w Krakowie"
+        },
+        {
+          "id": "b",
+          "text": "W kopalni soli w Wieliczce"
+        },
+        {
+          "id": "c",
+          "text": "W zamku w Malborku"
+        },
+        {
+          "id": "d",
+          "text": "W pałacu w Wilanowie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Legenda umieszcza Smoka Wawelskiego w grocie nad Wisłą pod Wawelem.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §12"
+    },
+    {
+      "id": "general-bison",
+      "categoryId": "general",
+      "question": "Jakie zwierzę symbolizuje Puszczę Białowieską?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Żubr"
+        },
+        {
+          "id": "b",
+          "text": "Orzeł"
+        },
+        {
+          "id": "c",
+          "text": "Wilk"
+        },
+        {
+          "id": "d",
+          "text": "Niedźwiedź"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Żubr jest symbolem Puszczy Białowieskiej.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §14"
+    },
+    {
+      "id": "general-doughnuts",
+      "categoryId": "general",
+      "question": "Co tradycyjnie je się w Tłusty Czwartek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pączki i faworki"
+        },
+        {
+          "id": "b",
+          "text": "Opłatek i kutię"
+        },
+        {
+          "id": "c",
+          "text": "Święconkę"
+        },
+        {
+          "id": "d",
+          "text": "Karpia i barszcz z uszkami"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W Tłusty Czwartek je się pączki i faworki, nazywane też chrustem.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §17"
+    },
+    {
+      "id": "general-oscypek",
+      "categoryId": "general",
+      "question": "Czym jest oscypek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wędzonym serem owczym z Podhala"
+        },
+        {
+          "id": "b",
+          "text": "Kwaśną zupą na zakwasie"
+        },
+        {
+          "id": "c",
+          "text": "Ciastem z makiem"
+        },
+        {
+          "id": "d",
+          "text": "Potrawą z kiszonej kapusty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Oscypek to regionalny ser owczy z Podhala.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §27"
+    }
+  ]
+}
