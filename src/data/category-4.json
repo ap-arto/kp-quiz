@@ -1,10 +1,6 @@
 {
   "category": {
-    "id": "traditions",
-    "name": {
-      "uk": "Традиції та свята",
-      "pl": "Tradycje i święta"
-    }
+    "id": "traditions"
   },
   "questions": [
     {

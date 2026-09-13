@@ -1,10 +1,6 @@
 {
   "category": {
-    "id": "people",
-    "name": {
-      "uk": "Відомі поляки",
-      "pl": "Znani Polacy"
-    }
+    "id": "people"
   },
   "questions": [
     {

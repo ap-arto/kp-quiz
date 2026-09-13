@@ -10,5 +10,9 @@ export default defineConfig({
     { name: 'mobile', use: { ...devices['iPhone 13'], defaultBrowserType: 'chromium' } },
     { name: 'desktop', use: { ...devices['Desktop Chrome'] } },
   ],
-  webServer: { command: 'npm run preview -- --host 127.0.0.1 --port 4173', url: 'http://127.0.0.1:4173/kp-quiz/', reuseExistingServer: !process.env.CI },
+  webServer: {
+    command: 'npm run preview -- --host 127.0.0.1 --port 4173',
+    url: 'http://127.0.0.1:4173/kp-quiz/',
+    reuseExistingServer: !process.env.CI,
+  },
 })

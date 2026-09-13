@@ -1,10 +1,6 @@
 {
   "category": {
-    "id": "general",
-    "name": {
-      "uk": "Польща щодня",
-      "pl": "Polska na co dzień"
-    }
+    "id": "general"
   },
   "questions": [
     {

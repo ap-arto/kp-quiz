@@ -1,0 +1,73 @@
+{
+  "language": "Język interfejsu",
+  "tagline": "Karta Polaka · Przygotowanie do rozmowy",
+  "eyebrow": "Odrobina praktyki każdego dnia",
+  "title": "Bliżej swoich korzeni.",
+  "intro": "Wybierz temat i sprawdź się. Krok po kroku — do pewności podczas rozmowy.",
+  "topics": "Tematy do ćwiczeń",
+  "questions": "Pytań",
+  "categories": "Tematów",
+  "studied": "Przećwiczone",
+  "accuracy": "Skuteczność",
+  "quick": "Szybki quiz",
+  "full": "Pełny quiz",
+  "guide": "Najpierw nowe pytania, potem te, które wymagają praktyki.",
+  "contentLanguage": "Pytania po polsku — jak podczas rozmowy.",
+  "local": "Postępy są zapisywane tylko w tej przeglądarce.",
+  "source": "Zestaw edukacyjny na podstawie kp-data",
+  "back": "Do tematów",
+  "choose": "Wybierz jedną odpowiedź.",
+  "correct": "Poprawnie",
+  "incorrect": "Niepoprawnie",
+  "correctAnswer": "Poprawna odpowiedź",
+  "yourAnswer": "Twoja odpowiedź",
+  "fact": "Warto zapamiętać",
+  "next": "Następne pytanie",
+  "finish": "Zobacz wynik",
+  "completed": "Quiz ukończony",
+  "result": "Kolejny krok naprzód.",
+  "resultCopy": "Każda odpowiedź pomaga lepiej się przygotować.",
+  "score": "Poprawne odpowiedzi",
+  "mistakes": "Omówienie błędów",
+  "perfect": "Wszystkie odpowiedzi poprawne!",
+  "perfectCopy": "Świetna praca. Możesz przejść do kolejnego tematu.",
+  "storageError": "Przeglądarka nie pozwoliła zapisać postępów. Będą dostępne do ponownego załadowania strony.",
+  "skip": "Przejdź do treści",
+  "appName": "KP Quiz",
+  "pageTitle": "KP Quiz · Karta Polaka · Przygotowanie do rozmowy",
+  "description": "Przygotowanie do rozmowy na Kartę Polaka.",
+  "homeLabel": "KP Quiz · Do tematów",
+  "quickLabel": "Szybki quiz: {{category}}",
+  "fullLabel": "Pełny quiz: {{category}}",
+  "questionProgress": "Pytanie {{current}} z {{total}}",
+  "scoreCount": "{{correct}} z {{total}}",
+  "questionCount_one": "{{count}} pytanie",
+  "questionCount_few": "{{count}} pytania",
+  "questionCount_many": "{{count}} pytań",
+  "questionCount_other": "{{count}} pytania",
+  "incorrectAnswer": "Twoja odpowiedź · Niepoprawnie",
+  "sealCountry": "POLSKA",
+  "sealMotto": "krok po kroku",
+  "languages": {
+    "uk": {
+      "name": "Українська",
+      "short": "УКР"
+    },
+    "pl": {
+      "name": "Polski",
+      "short": "PL"
+    },
+    "en": {
+      "name": "English",
+      "short": "EN"
+    }
+  },
+  "categoryNames": {
+    "symbols": "Symbole Polski",
+    "geography": "Geografia",
+    "history": "Historia",
+    "traditions": "Tradycje i święta",
+    "people": "Znani Polacy",
+    "general": "Polska na co dzień"
+  }
+}

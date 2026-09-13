@@ -1,10 +1,6 @@
 {
   "category": {
-    "id": "symbols",
-    "name": {
-      "uk": "Символи Польщі",
-      "pl": "Symbole Polski"
-    }
+    "id": "symbols"
   },
   "questions": [
     {

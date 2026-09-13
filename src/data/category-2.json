@@ -1,10 +1,6 @@
 {
   "category": {
-    "id": "geography",
-    "name": {
-      "uk": "Географія",
-      "pl": "Geografia"
-    }
+    "id": "geography"
   },
   "questions": [
     {

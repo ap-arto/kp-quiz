@@ -6,16 +6,21 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "format": "biome format --write .",
+    "format:check": "biome format .",
     "lint": "oxlint",
     "preview": "vite preview",
     "test": "node --experimental-strip-types --test tests/quiz.test.mjs",
     "test:e2e": "playwright test"
   },
   "dependencies": {
+    "i18next": "^26.4.2",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-i18next": "^17.0.13"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.5.13",
     "@playwright/test": "^1.63.0",
     "@types/node": "^24.13.3",
     "@types/react": "^19.2.18",

@@ -1,0 +1,73 @@
+{
+  "language": "Interface language",
+  "tagline": "Karta Polaka · Interview preparation",
+  "eyebrow": "A little practice every day",
+  "title": "Closer to your roots.",
+  "intro": "Choose a topic and test yourself. Step by step, build confidence for your interview.",
+  "topics": "Practice topics",
+  "questions": "Questions",
+  "categories": "Topics",
+  "studied": "Practised",
+  "accuracy": "Accuracy",
+  "quick": "Quick quiz",
+  "full": "Full quiz",
+  "guide": "New questions first, then the ones that need more practice.",
+  "contentLanguage": "Questions are in Polish — just like in the interview.",
+  "local": "Your progress is saved only in this browser.",
+  "source": "Learning set based on kp-data",
+  "back": "Back to topics",
+  "choose": "Choose one answer.",
+  "correct": "Correct",
+  "incorrect": "Incorrect",
+  "correctAnswer": "Correct answer",
+  "yourAnswer": "Your answer",
+  "fact": "Worth remembering",
+  "next": "Next question",
+  "finish": "View result",
+  "completed": "Quiz completed",
+  "result": "One more step forward.",
+  "resultCopy": "Every answer helps you prepare better.",
+  "score": "Correct answers",
+  "mistakes": "Review mistakes",
+  "perfect": "All answers are correct!",
+  "perfectCopy": "Great work. You can move on to another topic.",
+  "storageError": "Your browser could not save progress. It will remain available until you reload the page.",
+  "skip": "Skip to content",
+  "appName": "KP Quiz",
+  "pageTitle": "KP Quiz · Karta Polaka · Interview preparation",
+  "description": "Prepare for your Karta Polaka interview.",
+  "homeLabel": "KP Quiz · Back to topics",
+  "quickLabel": "Quick quiz: {{category}}",
+  "fullLabel": "Full quiz: {{category}}",
+  "questionProgress": "Question {{current}} of {{total}}",
+  "scoreCount": "{{correct}} of {{total}}",
+  "questionCount_one": "{{count}} question",
+  "questionCount_few": "{{count}} questions",
+  "questionCount_many": "{{count}} questions",
+  "questionCount_other": "{{count}} questions",
+  "incorrectAnswer": "Your answer · Incorrect",
+  "sealCountry": "POLAND",
+  "sealMotto": "step by step",
+  "languages": {
+    "uk": {
+      "name": "Українська",
+      "short": "УКР"
+    },
+    "pl": {
+      "name": "Polski",
+      "short": "PL"
+    },
+    "en": {
+      "name": "English",
+      "short": "EN"
+    }
+  },
+  "categoryNames": {
+    "symbols": "Symbols of Poland",
+    "geography": "Geography",
+    "history": "History",
+    "traditions": "Traditions and holidays",
+    "people": "Famous Poles",
+    "general": "Everyday Poland"
+  }
+}

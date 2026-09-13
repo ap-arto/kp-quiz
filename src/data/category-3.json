@@ -1,10 +1,6 @@
 {
   "category": {
-    "id": "history",
-    "name": {
-      "uk": "Історія",
-      "pl": "Historia"
-    }
+    "id": "history"
   },
   "questions": [
     {

@@ -1,5 +1,5 @@
-export type Language = 'uk' | 'pl'
-export type Category = { id: string; name: Record<Language, string> }
+export type Language = 'uk' | 'pl' | 'en'
+export type Category = { id: string }
 export type Answer = { id: string; text: string }
 export type Question = {
   id: string
@@ -35,8 +35,14 @@ export function shuffle<T>(items: T[], random = Math.random): T[] {
   return result
 }
 
-export function selectQuestions(questions: Question[], stats: Stats, mode: 'quick' | 'full', random = Math.random) {
-  const priority = (q: Question) => stats[q.id]?.attempts ? stats[q.id].successes / stats[q.id].attempts : -1
+export function selectQuestions(
+  questions: Question[],
+  stats: Stats,
+  mode: 'quick' | 'full',
+  random = Math.random,
+) {
+  const priority = (q: Question) =>
+    stats[q.id]?.attempts ? stats[q.id].successes / stats[q.id].attempts : -1
   return shuffle(questions, random)
     .sort((a, b) => priority(a) - priority(b))
     .slice(0, mode === 'quick' ? 10 : questions.length)
@@ -44,7 +50,9 @@ export function selectQuestions(questions: Question[], stats: Stats, mode: 'quic
 }
 
 export function categoryStats(questions: Question[], stats: Stats) {
-  let attempts = 0, successes = 0, studied = 0
+  let attempts = 0,
+    successes = 0,
+    studied = 0
   for (const q of questions) {
     const stat = stats[q.id]
     if (stat?.attempts) {
@@ -53,23 +61,57 @@ export function categoryStats(questions: Question[], stats: Stats) {
       successes += stat.successes
     }
   }
-  return { studied, total: questions.length, accuracy: attempts ? Math.round(successes / attempts * 100) : null }
+  return {
+    studied,
+    total: questions.length,
+    accuracy: attempts ? Math.round((successes / attempts) * 100) : null,
+  }
 }
 
 export function quizReducer(state: State, action: Action): State {
   if (action.type === 'home') return { ...state, session: null }
-  if (action.type === 'start') return action.questions.length ? { ...state, session: { categoryId: action.categoryId, questions: action.questions, index: 0, answers: {}, complete: false } } : state
+  if (action.type === 'start')
+    return action.questions.length
+      ? {
+          ...state,
+          session: {
+            categoryId: action.categoryId,
+            questions: action.questions,
+            index: 0,
+            answers: {},
+            complete: false,
+          },
+        }
+      : state
   const session = state.session
   if (!session || session.complete) return state
   const q = session.questions[session.index]
   if (action.type === 'next') {
     if (!session.answers[q.id]) return state
-    return { ...state, session: { ...session, index: Math.min(session.index + 1, session.questions.length - 1), complete: session.index === session.questions.length - 1 } }
+    return {
+      ...state,
+      session: {
+        ...session,
+        index: Math.min(session.index + 1, session.questions.length - 1),
+        complete: session.index === session.questions.length - 1,
+      },
+    }
   }
-  if (action.questionId !== q.id || session.answers[q.id] || !q.answers.some((a) => a.id === action.answerId)) return state
+  if (
+    action.questionId !== q.id ||
+    session.answers[q.id] ||
+    !q.answers.some((a) => a.id === action.answerId)
+  )
+    return state
   const previous = state.stats[q.id] ?? { attempts: 0, successes: 0 }
   return {
-    stats: { ...state.stats, [q.id]: { attempts: previous.attempts + 1, successes: previous.successes + Number(action.answerId === q.correctAnswerId) } },
+    stats: {
+      ...state.stats,
+      [q.id]: {
+        attempts: previous.attempts + 1,
+        successes: previous.successes + Number(action.answerId === q.correctAnswerId),
+      },
+    },
     session: { ...session, answers: { ...session.answers, [q.id]: action.answerId } },
   }
 }
@@ -85,11 +127,24 @@ export function readPreferences(raw: string | null): { stats: Stats; language: L
       for (const [id, stat] of Object.entries(value.stats)) {
         if (id === '__proto__' || id === 'constructor' || id === 'prototype') continue
         const s = stat as Stats[string] | null
-        if (s && Number.isSafeInteger(s.attempts) && Number.isSafeInteger(s.successes) && s.attempts >= 0 && s.successes >= 0 && s.successes <= s.attempts) stats[id] = s
+        if (
+          s &&
+          Number.isSafeInteger(s.attempts) &&
+          Number.isSafeInteger(s.successes) &&
+          s.attempts >= 0 &&
+          s.successes >= 0 &&
+          s.successes <= s.attempts
+        )
+          stats[id] = s
       }
     }
-    return { stats, language: value.language === 'pl' ? 'pl' : 'uk' }
-  } catch { return empty }
+    return {
+      stats,
+      language: value.language === 'pl' || value.language === 'en' ? value.language : 'uk',
+    }
+  } catch {
+    return empty
+  }
 }
 
 export function validateContent(content: Content) {
@@ -97,10 +152,24 @@ export function validateContent(content: Content) {
   const ids = new Set<string>()
   if (categories.size !== content.categories.length) throw new Error('Duplicate category ID')
   for (const q of content.questions) {
-    if (!q.id || ids.has(q.id) || !categories.has(q.categoryId) || !q.question.trim() || !q.fact.trim() || !q.source.trim() || q.answers.length !== 4 || new Set(q.answers.map((a) => a.id)).size !== 4 || new Set(q.answers.map((a) => a.text)).size !== 4 || q.answers.some((a) => !a.id || !a.text.trim()) || !q.answers.some((a) => a.id === q.correctAnswerId)) throw new Error(`Invalid question: ${q.id}`)
+    if (
+      !q.id ||
+      ids.has(q.id) ||
+      !categories.has(q.categoryId) ||
+      !q.question.trim() ||
+      !q.fact.trim() ||
+      !q.source.trim() ||
+      q.answers.length !== 4 ||
+      new Set(q.answers.map((a) => a.id)).size !== 4 ||
+      new Set(q.answers.map((a) => a.text)).size !== 4 ||
+      q.answers.some((a) => !a.id || !a.text.trim()) ||
+      !q.answers.some((a) => a.id === q.correctAnswerId)
+    )
+      throw new Error(`Invalid question: ${q.id}`)
     ids.add(q.id)
   }
   for (const c of content.categories) {
-    if (!c.name.uk || !c.name.pl || !content.questions.some((q) => q.categoryId === c.id)) throw new Error(`Invalid category: ${c.id}`)
+    if (!c.id || !content.questions.some((q) => q.categoryId === c.id))
+      throw new Error(`Invalid category: ${c.id}`)
   }
 }
