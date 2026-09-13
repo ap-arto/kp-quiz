@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test'
-import data from '../../src/data/questions.json' with { type: 'json' }
+import data from '../../src/data/index'
 const key = 'kp-quiz:v1'
 
 test('complete mixed quiz, persist each answer, show only mistakes, switch language', async ({ page }) => {

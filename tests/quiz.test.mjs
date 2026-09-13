@@ -1,20 +1,21 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
-import { readFileSync } from 'node:fs'
+import data from '../src/data/index.ts'
 import { categoryStats, quizReducer, readPreferences, selectQuestions, shuffle, validateContent } from '../src/quiz.ts'
-const data = JSON.parse(readFileSync(new URL('../src/data/questions.json', import.meta.url)))
 const history = data.questions.filter(q => q.categoryId === 'history')
 const blank = { stats: {}, session: null }
 
 test('the real content has stable unique IDs, four distinct answers and source references', () => {
   validateContent(data)
-  assert.equal(data.questions.length, 132)
+  assert.equal(data.questions.length, 68)
   assert.equal(data.categories.length, 6)
   assert.equal(new Set(data.questions.map(q => q.question.trim().toLocaleLowerCase('pl'))).size, data.questions.length)
-  for (const q of data.questions) assert.match(q.source, /^kp-data\/data\/questions\/.+ §\d+$/)
   const people = data.questions.filter(q => q.categoryId === 'people')
-  assert.equal(people.length, 94)
-  assert.deepEqual([...new Set(people.map(q => Number(q.source.split('§')[1])))].sort((a, b) => a - b), Array.from({ length: 14 }, (_, i) => i + 1))
+  const otherQuestions = data.questions.filter(q => q.categoryId !== 'people')
+  assert.equal(people.length, 30)
+  for (const q of people) assert.match(q.source, /^Treść przekazana przez użytkownika §\d+$/)
+  for (const q of otherQuestions) assert.match(q.source, /^kp-data\/data\/questions\/.+ §\d+$/)
+  assert.deepEqual(people.map(q => Number(q.source.split('§')[1])), Array.from({ length: 30 }, (_, i) => i + 1))
   const invalid = structuredClone(data)
   invalid.questions[0].correctAnswerId = 'missing'
   assert.throws(() => validateContent(invalid), /Invalid question/)

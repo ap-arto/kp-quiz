@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import data from './data/questions.json'
+import data from './data/index'
 import { messages } from './i18n'
 import { categoryStats, quizReducer, readPreferences, selectQuestions, STORAGE_KEY, validateContent } from './quiz'
 import type { Action, Language, State } from './quiz'

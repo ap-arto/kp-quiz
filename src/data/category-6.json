@@ -1,0 +1,141 @@
+{
+  "category": {
+    "id": "general",
+    "name": {
+      "uk": "Польща щодня",
+      "pl": "Polska na co dzień"
+    }
+  },
+  "questions": [
+    {
+      "id": "general-capital",
+      "categoryId": "general",
+      "question": "Jakie miasto jest stolicą Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Warszawa"
+        },
+        {
+          "id": "b",
+          "text": "Kraków"
+        },
+        {
+          "id": "c",
+          "text": "Gniezno"
+        },
+        {
+          "id": "d",
+          "text": "Poznań"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stolicą Polski jest Warszawa. Jej herb przedstawia Syrenkę.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §2"
+    },
+    {
+      "id": "general-dragon",
+      "categoryId": "general",
+      "question": "Gdzie według legendy mieszkał Smok Wawelski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W grocie pod Wawelem w Krakowie"
+        },
+        {
+          "id": "b",
+          "text": "W kopalni soli w Wieliczce"
+        },
+        {
+          "id": "c",
+          "text": "W zamku w Malborku"
+        },
+        {
+          "id": "d",
+          "text": "W pałacu w Wilanowie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Legenda umieszcza Smoka Wawelskiego w grocie nad Wisłą pod Wawelem.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §12"
+    },
+    {
+      "id": "general-bison",
+      "categoryId": "general",
+      "question": "Jakie zwierzę symbolizuje Puszczę Białowieską?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Żubr"
+        },
+        {
+          "id": "b",
+          "text": "Orzeł"
+        },
+        {
+          "id": "c",
+          "text": "Wilk"
+        },
+        {
+          "id": "d",
+          "text": "Niedźwiedź"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Żubr jest symbolem Puszczy Białowieskiej.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §14"
+    },
+    {
+      "id": "general-doughnuts",
+      "categoryId": "general",
+      "question": "Co tradycyjnie je się w Tłusty Czwartek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pączki i faworki"
+        },
+        {
+          "id": "b",
+          "text": "Opłatek i kutię"
+        },
+        {
+          "id": "c",
+          "text": "Święconkę"
+        },
+        {
+          "id": "d",
+          "text": "Karpia i barszcz z uszkami"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W Tłusty Czwartek je się pączki i faworki, nazywane też chrustem.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §17"
+    },
+    {
+      "id": "general-oscypek",
+      "categoryId": "general",
+      "question": "Czym jest oscypek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wędzonym serem owczym z Podhala"
+        },
+        {
+          "id": "b",
+          "text": "Kwaśną zupą na zakwasie"
+        },
+        {
+          "id": "c",
+          "text": "Ciastem z makiem"
+        },
+        {
+          "id": "d",
+          "text": "Potrawą z kiszonej kapusty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Oscypek to regionalny ser owczy z Podhala.",
+      "source": "kp-data/data/questions/06-pytania-ogolne.md §27"
+    }
+  ]
+}

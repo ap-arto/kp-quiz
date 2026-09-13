@@ -1,0 +1,791 @@
+{
+  "category": {
+    "id": "people",
+    "name": {
+      "uk": "Відомі поляки",
+      "pl": "Znani Polacy"
+    }
+  },
+  "questions": [
+    {
+      "id": "people-nobel-sienkiewicz-novel",
+      "categoryId": "people",
+      "question": "Za którą powieść Henryk Sienkiewicz otrzymał Nagrodę Nobla w dziedzinie literatury w 1905 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Trylogia"
+        },
+        {
+          "id": "b",
+          "text": "Quo Vadis"
+        },
+        {
+          "id": "c",
+          "text": "Ogniem i mieczem"
+        },
+        {
+          "id": "d",
+          "text": "Potop"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Głównym argumentem do przyznania nagrody stała się powieść „Quo Vadis”, opowiadająca o czasach rzymskiego cesarza Nerona i pierwszych chrześcijanach.",
+      "source": "Treść przekazana przez użytkownika §1"
+    },
+    {
+      "id": "people-nobel-reymont-chlopi-structure",
+      "categoryId": "people",
+      "question": "Czym wyróżnia się powieść „Chłopi” Władysława Reymonta, za którą otrzymał Nagrodę Nobla w 1924 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Opisuje życie miejskiej elity Krakowa"
+        },
+        {
+          "id": "b",
+          "text": "Jest podzielona na cztery części odpowiadające czterem porom roku"
+        },
+        {
+          "id": "c",
+          "text": "Jest zbiorem autobiograficznych dzienników"
+        },
+        {
+          "id": "d",
+          "text": "Została napisana w formie wierszowanego eposu"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Powieść przedstawia życie ludzi na wsi i jest podzielona na cztery części: jesień, zima, wiosna i lato. Należy do najbardziej znanych na świecie dzieł literatury polskiej.",
+      "source": "Treść przekazana przez użytkownika §2"
+    },
+    {
+      "id": "people-nobel-milosz",
+      "categoryId": "people",
+      "question": "Za co Czesław Miłosz otrzymał Nagrodę Nobla w dziedzinie literatury w 1980 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Za całokształt twórczości"
+        },
+        {
+          "id": "b",
+          "text": "Za pojedynczą powieść o II wojnie światowej"
+        },
+        {
+          "id": "c",
+          "text": "Za przekłady dzieł Szekspira"
+        },
+        {
+          "id": "d",
+          "text": "Za badania nad historią polskiego teatru"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Czesław Miłosz był poetą, prozaikiem, eseistą, historykiem literatury i tłumaczem. Nagrodę Nobla otrzymał za całokształt twórczości, a zmarł w 2004 roku w Krakowie.",
+      "source": "Treść przekazana przez użytkownika §3"
+    },
+    {
+      "id": "people-nobel-walesa",
+      "categoryId": "people",
+      "question": "Za jakie zasługi Lech Wałęsa otrzymał Pokojową Nagrodę Nobla w 1983 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Za założenie Związku „Solidarność” i wkład w obalenie komunizmu"
+        },
+        {
+          "id": "b",
+          "text": "Za podpisanie traktatu pokojowego między krajami europejskimi"
+        },
+        {
+          "id": "c",
+          "text": "Za działalność dyplomatyczną w ONZ"
+        },
+        {
+          "id": "d",
+          "text": "Za przeprowadzenie reform gospodarczych w Polsce"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Lech Wałęsa był założycielem Związku „Solidarność” i miał ogromny wkład w obalenie komunizmu w Polsce i na świecie. W latach 1990–1995 pełnił rolę prezydenta Rzeczypospolitej Polskiej.",
+      "source": "Treść przekazana przez użytkownika §4"
+    },
+    {
+      "id": "people-nobel-curie-distinction",
+      "categoryId": "people",
+      "question": "Czym wyjątkowym w historii Nagrody Nobla zapisała się Maria Skłodowska-Curie?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Została pierwszą kobietą-laureatką i otrzymała dwie Nagrody Nobla w różnych dziedzinach (fizyka i chemia)"
+        },
+        {
+          "id": "b",
+          "text": "Jest jedyną kobietą, która otrzymała Nagrodę Nobla z literatury"
+        },
+        {
+          "id": "c",
+          "text": "Otrzymała trzy Nagrody Nobla z rzędu"
+        },
+        {
+          "id": "d",
+          "text": "Była najmłodszą laureatką Pokojowej Nagrody Nobla"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 1903 roku otrzymała Nagrodę Nobla z fizyki (razem z mężem Pierre’em), a w 1911 roku samodzielnie z chemii. Była też pierwszą kobietą-profesorem na paryskiej Sorbonie.",
+      "source": "Treść przekazana przez użytkownika §5"
+    },
+    {
+      "id": "people-nobel-rotblat",
+      "categoryId": "people",
+      "question": "Który polski naukowiec brał udział w stworzeniu pierwszej bomby atomowej, a w 1995 roku otrzymał Pokojową Nagrodę Nobla za działalność pacyfistyczną?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Czesław Miłosz"
+        },
+        {
+          "id": "b",
+          "text": "Józef Rotblat"
+        },
+        {
+          "id": "c",
+          "text": "Władysław Reymont"
+        },
+        {
+          "id": "d",
+          "text": "Henryk Sienkiewicz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Józef Rotblat był polskim fizykiem i radiobiologiem. Został współzałożycielem i liderem pacyfistycznego ruchu naukowców Pugwash.",
+      "source": "Treść przekazana przez użytkownika §6"
+    },
+    {
+      "id": "people-nobel-szymborska-field",
+      "categoryId": "people",
+      "question": "W jakiej dziedzinie Wisława Szymborska otrzymała Nagrodę Nobla w 1996 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Literatura"
+        },
+        {
+          "id": "b",
+          "text": "Fizyka"
+        },
+        {
+          "id": "c",
+          "text": "Pokojowa Nagroda Nobla"
+        },
+        {
+          "id": "d",
+          "text": "Chemia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Wisława Szymborska to jedna z najbardziej znanych i popularnych polskich poetek. Na jej życzenie została założona coroczna międzynarodowa Nagroda Poetycka im. Wisławy Szymborskiej.",
+      "source": "Treść przekazana przez użytkownika §7"
+    },
+    {
+      "id": "people-nobel-tokarczuk-book",
+      "categoryId": "people",
+      "question": "Która powieść Olgi Tokarczuk stała się głównym argumentem przemawiającym za przyznaniem jej Nagrody Nobla z literatury (za rok 2018)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bieguni"
+        },
+        {
+          "id": "b",
+          "text": "Księgi Jakubowe"
+        },
+        {
+          "id": "c",
+          "text": "Wyspa"
+        },
+        {
+          "id": "d",
+          "text": "Profesor Andrews w Warszawie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Najważniejszym argumentem literackim na jej korzyść stała się powieść „Księgi Jakubowe”, przetłumaczona na wiele języków świata. Pisarka ukończyła psychologię na Uniwersytecie Warszawskim i jest także laureatką Międzynarodowej Nagrody Bookera.",
+      "source": "Treść przekazana przez użytkownika §8"
+    },
+    {
+      "id": "people-literature-mickiewicz-pan-tadeusz",
+      "categoryId": "people",
+      "question": "Kto jest autorem epopei narodowej „Pan Tadeusz” oraz jednym z trzech wieszczów narodowych?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Juliusz Słowacki"
+        },
+        {
+          "id": "b",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Stanisław Lem"
+        },
+        {
+          "id": "d",
+          "text": "Henryk Sienkiewicz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Adam Mickiewicz to najwybitniejszy poeta epoki romantyzmu. Trzej polscy wieszczowie narodowi to Mickiewicz, Słowacki i Krasiński.",
+      "source": "Treść przekazana przez użytkownika §9"
+    },
+    {
+      "id": "people-literature-lem-solaris",
+      "categoryId": "people",
+      "question": "Który znany polski pisarz zdobył światową sławę dzięki powieściom science fiction, takim jak „Solaris”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stanisław Lem"
+        },
+        {
+          "id": "b",
+          "text": "Michał Ogiński"
+        },
+        {
+          "id": "c",
+          "text": "Eliza Orzeszkowa"
+        },
+        {
+          "id": "d",
+          "text": "Stefan Banach"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stanisław Lem urodził się we Lwowie, a zmarł w 2006 roku w Krakowie. Jego dzieła były wielokrotnie ekranizowane.",
+      "source": "Treść przekazana przez użytkownika §10"
+    },
+    {
+      "id": "people-literature-konopnicka",
+      "categoryId": "people",
+      "question": "Kto jest autorką znanej powieści dla dzieci „O krasnoludkach i sierotce Marysi”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Eliza Orzeszkowa"
+        },
+        {
+          "id": "b",
+          "text": "Wisława Szymborska"
+        },
+        {
+          "id": "c",
+          "text": "Maria Konopnicka"
+        },
+        {
+          "id": "d",
+          "text": "Agnieszka Radwańska"
+        }
+      ],
+      "correctAnswerId": "c",
+      "fact": "Maria Konopnicka to znana polska pisarka XIX wieku, pochowana na Cmentarzu Łyczakowskim we Lwowie.",
+      "source": "Treść przekazana przez użytkownika §11"
+    },
+    {
+      "id": "people-music-chopin-birthplace",
+      "categoryId": "people",
+      "question": "Gdzie urodził się Fryderyk Chopin, najwybitniejszy polski kompozytor i pianista epoki romantyzmu?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Toruniu"
+        },
+        {
+          "id": "b",
+          "text": "W Warszawie"
+        },
+        {
+          "id": "c",
+          "text": "W Żelazowej Woli"
+        },
+        {
+          "id": "d",
+          "text": "W Krakowie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "fact": "Chopin większość życia spędził w Paryżu. Zgodnie z jego ostatnią wolą urna z jego sercem została wmurowana w filar kościoła św. Krzyża w Warszawie.",
+      "source": "Treść przekazana przez użytkownika §12"
+    },
+    {
+      "id": "people-music-moniuszko",
+      "categoryId": "people",
+      "question": "Kto jest uważany za „ojca polskiej opery”, m.in. dzięki stworzeniu opery „Halka”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Krzysztof Penderecki"
+        },
+        {
+          "id": "b",
+          "text": "Stanisław Moniuszko"
+        },
+        {
+          "id": "c",
+          "text": "Michał Ogiński"
+        },
+        {
+          "id": "d",
+          "text": "Fryderyk Chopin"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Operowe adaptacje melodii ludowych Stanisława Moniuszki podnosiły na duchu naród polski w czasie rozbiorów.",
+      "source": "Treść przekazana przez użytkownika §13"
+    },
+    {
+      "id": "people-music-oginski-polonaise",
+      "categoryId": "people",
+      "question": "Jak nazywa się najbardziej znany polonez skomponowany przez Michała Ogińskiego?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pożegnanie Ojczyzny"
+        },
+        {
+          "id": "b",
+          "text": "Etiuda Rewolucyjna"
+        },
+        {
+          "id": "c",
+          "text": "Halka"
+        },
+        {
+          "id": "d",
+          "text": "Solaris"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polonez „Pożegnanie Ojczyzny” jest najbardziej znanym polskim polonezem autorstwa Michała Ogińskiego.",
+      "source": "Treść przekazana przez użytkownika §14"
+    },
+    {
+      "id": "people-science-copernicus",
+      "categoryId": "people",
+      "question": "Jaki polski astronom jest autorem dzieła „O obrotach ciał niebieskich” i twórcą teorii heliocentrycznej?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stefan Banach"
+        },
+        {
+          "id": "b",
+          "text": "Ludwik Zamenhof"
+        },
+        {
+          "id": "c",
+          "text": "Mikołaj Kopernik"
+        },
+        {
+          "id": "d",
+          "text": "Andrzej Wajda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "fact": "Mikołaj Kopernik urodził się w 1473 roku w Toruniu. Mówi się o nim, że „zatrzymał Słońce i poruszył Ziemię”.",
+      "source": "Treść przekazana przez użytkownika §15"
+    },
+    {
+      "id": "people-science-curie-nobels",
+      "categoryId": "people",
+      "question": "Ile Nagród Nobla i w jakich dziedzinach zdobyła Maria Skłodowska-Curie?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jedną z fizyki"
+        },
+        {
+          "id": "b",
+          "text": "Dwie — z chemii i fizyki"
+        },
+        {
+          "id": "c",
+          "text": "Dwie — z chemii i literatury"
+        },
+        {
+          "id": "d",
+          "text": "Jedną Pokojową Nagrodę Nobla"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Maria Skłodowska-Curie odkryła pierwiastki promieniotwórcze rad i polon. Była też pierwszą kobietą profesorem na paryskiej Sorbonie.",
+      "source": "Treść przekazana przez użytkownika §16"
+    },
+    {
+      "id": "people-science-zamenhof",
+      "categoryId": "people",
+      "question": "Kto stworzył sztuczny język międzynarodowy — esperanto?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Ludwik Zamenhof"
+        },
+        {
+          "id": "b",
+          "text": "Stefan Banach"
+        },
+        {
+          "id": "c",
+          "text": "Juliusz Słowacki"
+        },
+        {
+          "id": "d",
+          "text": "Roman Polański"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Ludwik Zamenhof był lekarzem i językoznawcą pochodzenia żydowskiego, urodzonym w Białymstoku.",
+      "source": "Treść przekazana przez użytkownika §17"
+    },
+    {
+      "id": "people-science-banach",
+      "categoryId": "people",
+      "question": "Który wybitny matematyk urodził się w Krakowie, zmarł we Lwowie i był współzałożycielem Lwowskiej Szkoły Matematycznej?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stefan Banach"
+        },
+        {
+          "id": "b",
+          "text": "Mikołaj Kopernik"
+        },
+        {
+          "id": "c",
+          "text": "Ludwik Zamenhof"
+        },
+        {
+          "id": "d",
+          "text": "Stanisław Moniuszko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stefan Banach napisał ponad 60 prac naukowych i został pochowany na Cmentarzu Łyczakowskim we Lwowie obok Marii Konopnickiej.",
+      "source": "Treść przekazana przez użytkownika §18"
+    },
+    {
+      "id": "people-cinema-wajda",
+      "categoryId": "people",
+      "question": "Który polski reżyser w 2003 roku zdobył Oscara za całokształt twórczości oraz wyreżyserował ekranizację „Pana Tadeusza” (1999)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Roman Polański"
+        },
+        {
+          "id": "b",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "c",
+          "text": "Andrzej Wajda"
+        },
+        {
+          "id": "d",
+          "text": "Krzysztof Penderecki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "fact": "Andrzej Wajda jest uważany za ojca współczesnej kinematografii polskiej. Wyreżyserował m.in. „Człowieka z marmuru”, „Człowieka z żelaza” i „Popiół i diament”.",
+      "source": "Treść przekazana przez użytkownika §19"
+    },
+    {
+      "id": "people-cinema-polanski-pianist",
+      "categoryId": "people",
+      "question": "Który film Romana Polańskiego opowiadający o losach Władysława Szpilmana zdobył trzy Oscary?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Katyń"
+        },
+        {
+          "id": "b",
+          "text": "Ogniem i mieczem"
+        },
+        {
+          "id": "c",
+          "text": "Pianista"
+        },
+        {
+          "id": "d",
+          "text": "Człowiek z marmuru"
+        }
+      ],
+      "correctAnswerId": "c",
+      "fact": "Film „Pianista” oparty jest na autobiograficznej książce Władysława Szpilmana, polskiego kompozytora i pianisty pochodzenia żydowskiego.",
+      "source": "Treść przekazana przez użytkownika §20"
+    },
+    {
+      "id": "people-cinema-hoffman-trilogy",
+      "categoryId": "people",
+      "question": "Który reżyser zdobył sławę głównie jako twórca adaptacji filmowych „Trylogii” Henryka Sienkiewicza?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jerzy Hoffman"
+        },
+        {
+          "id": "b",
+          "text": "Andrzej Wajda"
+        },
+        {
+          "id": "c",
+          "text": "Bogusław Linda"
+        },
+        {
+          "id": "d",
+          "text": "Michał Żebrowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Jerzy Hoffman przeniósł na ekran wszystkie części „Trylogii”: „Pan Wołodyjowski”, „Potop” oraz „Ogniem i mieczem”.",
+      "source": "Treść przekazana przez użytkownika §21"
+    },
+    {
+      "id": "people-cinema-scorupco",
+      "categoryId": "people",
+      "question": "Która polska aktorka zagrała w 1995 roku u boku Pierce’a Brosnana w filmie o przygodach Jamesa Bonda („GoldenEye”)?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Krystyna Janda"
+        },
+        {
+          "id": "b",
+          "text": "Alicja Bachleda-Curuś"
+        },
+        {
+          "id": "c",
+          "text": "Izabella Scorupco"
+        },
+        {
+          "id": "d",
+          "text": "Maria Konopnicka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "fact": "Izabella Scorupco zagrała również rolę Heleny Kurcewiczówny w filmie „Ogniem i mieczem” (1999).",
+      "source": "Treść przekazana przez użytkownika §22"
+    },
+    {
+      "id": "people-cinema-zebrowski",
+      "categoryId": "people",
+      "question": "Kto zagrał główną rolę Pana Tadeusza w filmie Andrzeja Wajdy z 1999 roku?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bogusław Linda"
+        },
+        {
+          "id": "b",
+          "text": "Michał Żebrowski"
+        },
+        {
+          "id": "c",
+          "text": "Roman Polański"
+        },
+        {
+          "id": "d",
+          "text": "Adam Mickiewicz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Michał Żebrowski zagrał również główne role w filmach „Ogniem i mieczem”, „Pianista” oraz „Stara baśń”.",
+      "source": "Treść przekazana przez użytkownika §23"
+    },
+    {
+      "id": "people-cinema-linda",
+      "categoryId": "people",
+      "question": "W jaką rolę wcielił się Bogusław Linda w filmie „Pan Tadeusz”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Tadeusza"
+        },
+        {
+          "id": "b",
+          "text": "Jacka Soplicy"
+        },
+        {
+          "id": "c",
+          "text": "Władysława Szpilmana"
+        },
+        {
+          "id": "d",
+          "text": "Juliusza Słowackiego"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Bogusław Linda to wybitny polski aktor, który zagrał również m.in. w filmie Andrzeja Wajdy „Człowiek z żelaza”.",
+      "source": "Treść przekazana przez użytkownika §24"
+    },
+    {
+      "id": "people-sport-malysz",
+      "categoryId": "people",
+      "question": "Kto jest uważany za najbardziej popularnego polskiego skoczka narciarskiego?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Robert Lewandowski"
+        },
+        {
+          "id": "b",
+          "text": "Adam Małysz"
+        },
+        {
+          "id": "c",
+          "text": "Dariusz Michalczewski"
+        },
+        {
+          "id": "d",
+          "text": "Michał Żebrowski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Adam Małysz (skoki narciarskie) to najbardziej popularny polski sportowiec w tej dyscyplinie.",
+      "source": "Treść przekazana przez użytkownika §25"
+    },
+    {
+      "id": "people-sport-michalczewski",
+      "categoryId": "people",
+      "question": "Jaką dyscyplinę sportu reprezentuje Dariusz Michalczewski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Piłkę nożną"
+        },
+        {
+          "id": "b",
+          "text": "Boks"
+        },
+        {
+          "id": "c",
+          "text": "Tenis"
+        },
+        {
+          "id": "d",
+          "text": "Skoki narciarskie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Dariusz Michalczewski to mistrz bokserski ostatnich lat.",
+      "source": "Treść przekazana przez użytkownika §26"
+    },
+    {
+      "id": "people-sport-radwanska",
+      "categoryId": "people",
+      "question": "Która ze sportsmenek jest uważana za jedną z czołowych tenisistek świata?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Agnieszka Radwańska"
+        },
+        {
+          "id": "b",
+          "text": "Izabella Scorupco"
+        },
+        {
+          "id": "c",
+          "text": "Krystyna Janda"
+        },
+        {
+          "id": "d",
+          "text": "Eliza Orzeszkowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Agnieszka Radwańska to najbardziej znana polska reprezentantka tenisa ziemnego.",
+      "source": "Treść przekazana przez użytkownika §27"
+    },
+    {
+      "id": "people-sport-lewandowski",
+      "categoryId": "people",
+      "question": "Kto jest najbardziej znanym i rozpoznawalnym polskim piłkarzem?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Adam Małysz"
+        },
+        {
+          "id": "b",
+          "text": "Robert Lewandowski"
+        },
+        {
+          "id": "c",
+          "text": "Bogusław Linda"
+        },
+        {
+          "id": "d",
+          "text": "Dariusz Michalczewski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Robert Lewandowski (piłka nożna) jest najbardziej znanym polskim zawodnikiem na świecie.",
+      "source": "Treść przekazana przez użytkownika §28"
+    },
+    {
+      "id": "people-religion-john-paul-ii",
+      "categoryId": "people",
+      "question": "Kiedy kardynał Karol Wojtyła został wybrany na papieża i przyjął imię Jan Paweł II?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "3 maja 1966 roku"
+        },
+        {
+          "id": "b",
+          "text": "16 października 1978 roku"
+        },
+        {
+          "id": "c",
+          "text": "11 listopada 1918 roku"
+        },
+        {
+          "id": "d",
+          "text": "15 sierpnia 1920 roku"
+        }
+      ],
+      "correctAnswerId": "b",
+      "fact": "Święty Jan Paweł II (1920–2005) przed wyborem na papieża był arcybiskupem krakowskim. W czasie swojego pontyfikatu odwiedził 129 krajów.",
+      "source": "Treść przekazana przez użytkownika §29"
+    },
+    {
+      "id": "people-religion-patrons",
+      "categoryId": "people",
+      "question": "Kto NIE należy do głównych katolickich patronów Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Święty Wojciech Biskup i Męczennik"
+        },
+        {
+          "id": "b",
+          "text": "Święty Stanisław Biskup i Męczennik"
+        },
+        {
+          "id": "c",
+          "text": "Najświętsza Maria Panna Królowa Polski"
+        },
+        {
+          "id": "d",
+          "text": "Święty Stefan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "fact": "Katoliccy patroni Polski podani w podręczniku to: Święty Wojciech, Święty Stanisław oraz Najświętsza Maria Panna Królowa Polski.",
+      "source": "Treść przekazana przez użytkownika §30"
+    }
+  ]
+}

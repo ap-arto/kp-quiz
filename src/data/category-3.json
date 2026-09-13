@@ -1,0 +1,323 @@
+{
+  "category": {
+    "id": "history",
+    "name": {
+      "uk": "Історія",
+      "pl": "Historia"
+    }
+  },
+  "questions": [
+    {
+      "id": "history-first-ruler",
+      "categoryId": "history",
+      "question": "Kto był pierwszym historycznie potwierdzonym władcą Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mieszko I"
+        },
+        {
+          "id": "b",
+          "text": "Bolesław Chrobry"
+        },
+        {
+          "id": "c",
+          "text": "Kazimierz Wielki"
+        },
+        {
+          "id": "d",
+          "text": "Władysław Jagiełło"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Mieszko I pochodził z dynastii Piastów. Głównym obszarem jego państwa była Wielkopolska.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §1"
+    },
+    {
+      "id": "history-baptism",
+      "categoryId": "history",
+      "question": "W którym roku odbył się chrzest Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "966"
+        },
+        {
+          "id": "b",
+          "text": "1000"
+        },
+        {
+          "id": "c",
+          "text": "1025"
+        },
+        {
+          "id": "d",
+          "text": "1138"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 966 roku Mieszko I przyjął chrześcijaństwo, włączając państwo w krąg chrześcijańskiej Europy.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §2"
+    },
+    {
+      "id": "history-first-king",
+      "categoryId": "history",
+      "question": "Kto był pierwszym królem Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bolesław Chrobry"
+        },
+        {
+          "id": "b",
+          "text": "Mieszko I"
+        },
+        {
+          "id": "c",
+          "text": "Władysław Łokietek"
+        },
+        {
+          "id": "d",
+          "text": "Kazimierz Odnowiciel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Bolesław Chrobry, syn Mieszka I, został koronowany w 1025 roku.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §3"
+    },
+    {
+      "id": "history-dynasty",
+      "categoryId": "history",
+      "question": "Jaka była pierwsza dynastia panująca w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Piastowie"
+        },
+        {
+          "id": "b",
+          "text": "Jagiellonowie"
+        },
+        {
+          "id": "c",
+          "text": "Wazowie"
+        },
+        {
+          "id": "d",
+          "text": "Wettinowie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Do Piastów należeli Mieszko I i Bolesław Chrobry. Ostatnim królem tej dynastii był Kazimierz Wielki.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §4"
+    },
+    {
+      "id": "history-gniezno",
+      "categoryId": "history",
+      "question": "W którym roku odbył się zjazd gnieźnieński?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1000"
+        },
+        {
+          "id": "b",
+          "text": "966"
+        },
+        {
+          "id": "c",
+          "text": "1025"
+        },
+        {
+          "id": "d",
+          "text": "1226"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 1000 roku w Gnieźnie spotkali się Bolesław Chrobry i cesarz Otton III.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §8"
+    },
+    {
+      "id": "history-university",
+      "categoryId": "history",
+      "question": "Kto założył Akademię Krakowską?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Kazimierz Wielki"
+        },
+        {
+          "id": "b",
+          "text": "Władysław Jagiełło"
+        },
+        {
+          "id": "c",
+          "text": "Jan III Sobieski"
+        },
+        {
+          "id": "d",
+          "text": "Zygmunt III Waza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Kazimierz Wielki założył Akademię Krakowską w 1364 roku. To dzisiejszy Uniwersytet Jagielloński.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §18"
+    },
+    {
+      "id": "history-grunwald",
+      "categoryId": "history",
+      "question": "Kiedy odbyła się bitwa pod Grunwaldem?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "15 lipca 1410 roku"
+        },
+        {
+          "id": "b",
+          "text": "12 września 1683 roku"
+        },
+        {
+          "id": "c",
+          "text": "3 maja 1791 roku"
+        },
+        {
+          "id": "d",
+          "text": "11 listopada 1918 roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pod Grunwaldem wojska polsko-litewskie pod dowództwem Władysława Jagiełły pokonały Krzyżaków.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §22"
+    },
+    {
+      "id": "history-lublin",
+      "categoryId": "history",
+      "question": "Kiedy zawarto unię lubelską?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1569"
+        },
+        {
+          "id": "b",
+          "text": "1385"
+        },
+        {
+          "id": "c",
+          "text": "1573"
+        },
+        {
+          "id": "d",
+          "text": "1791"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W 1569 roku Polska i Litwa utworzyły Rzeczpospolitą Obojga Narodów.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §24"
+    },
+    {
+      "id": "history-vienna",
+      "categoryId": "history",
+      "question": "Który król dowodził wojskami sprzymierzonymi w odsieczy wiedeńskiej?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jan III Sobieski"
+        },
+        {
+          "id": "b",
+          "text": "Stefan Batory"
+        },
+        {
+          "id": "c",
+          "text": "Zygmunt II August"
+        },
+        {
+          "id": "d",
+          "text": "Stanisław August Poniatowski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "12 września 1683 roku Jan III Sobieski dowodził wojskami, które pokonały armię osmańską pod Wiedniem.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §33"
+    },
+    {
+      "id": "history-last-king",
+      "categoryId": "history",
+      "question": "Kto był ostatnim królem Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stanisław August Poniatowski"
+        },
+        {
+          "id": "b",
+          "text": "Jan III Sobieski"
+        },
+        {
+          "id": "c",
+          "text": "August III Sas"
+        },
+        {
+          "id": "d",
+          "text": "Zygmunt III Waza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Stanisław August Poniatowski panował w latach 1764–1795. Za jego panowania doszło do trzech rozbiorów.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §35"
+    },
+    {
+      "id": "history-constitution",
+      "categoryId": "history",
+      "question": "W którym roku uchwalono Konstytucję 3 maja?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1791"
+        },
+        {
+          "id": "b",
+          "text": "1772"
+        },
+        {
+          "id": "c",
+          "text": "1793"
+        },
+        {
+          "id": "d",
+          "text": "1918"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Konstytucję uchwalono 3 maja 1791 roku. Zniosła liberum veto i wolną elekcję.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §41"
+    },
+    {
+      "id": "history-independence",
+      "categoryId": "history",
+      "question": "Dlaczego Święto Niepodległości obchodzimy 11 listopada?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Data symbolizuje odzyskanie niepodległości w 1918 roku"
+        },
+        {
+          "id": "b",
+          "text": "Tego dnia uchwalono Konstytucję 3 maja"
+        },
+        {
+          "id": "c",
+          "text": "Tego dnia odbył się chrzest Polski"
+        },
+        {
+          "id": "d",
+          "text": "Tego dnia odbyła się bitwa pod Grunwaldem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "11 listopada 1918 roku Józef Piłsudski przejął władzę wojskową od Rady Regencyjnej.",
+      "source": "kp-data/data/questions/03-pytania-z-historii-polski.md §51"
+    }
+  ]
+}

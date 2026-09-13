@@ -1,0 +1,141 @@
+{
+  "category": {
+    "id": "symbols",
+    "name": {
+      "uk": "Символи Польщі",
+      "pl": "Symbole Polski"
+    }
+  },
+  "questions": [
+    {
+      "id": "symbols-flag",
+      "categoryId": "symbols",
+      "question": "Jakie kolory ma flaga Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Biały i czerwony"
+        },
+        {
+          "id": "b",
+          "text": "Biały i niebieski"
+        },
+        {
+          "id": "c",
+          "text": "Czerwony i zielony"
+        },
+        {
+          "id": "d",
+          "text": "Niebieski i żółty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polska flaga jest biało-czerwona.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §1"
+    },
+    {
+      "id": "symbols-eagle",
+      "categoryId": "symbols",
+      "question": "Co przedstawia godło Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Białego orła w złotej koronie na czerwonym tle"
+        },
+        {
+          "id": "b",
+          "text": "Czarnego orła na złotym tle"
+        },
+        {
+          "id": "c",
+          "text": "Białego orła bez korony na niebieskim tle"
+        },
+        {
+          "id": "d",
+          "text": "Złotego lwa na czerwonym tle"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Godłem Polski jest Orzeł Biały w złotej koronie na czerwonym tle.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §2"
+    },
+    {
+      "id": "symbols-anthem",
+      "categoryId": "symbols",
+      "question": "Jak nazywa się hymn Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mazurek Dąbrowskiego"
+        },
+        {
+          "id": "b",
+          "text": "Rota"
+        },
+        {
+          "id": "c",
+          "text": "Bogurodzica"
+        },
+        {
+          "id": "d",
+          "text": "Warszawianka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Hymnem Polski jest Mazurek Dąbrowskiego, napisany w 1797 roku.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §3"
+    },
+    {
+      "id": "symbols-anthem-author",
+      "categoryId": "symbols",
+      "question": "Kto napisał słowa Mazurka Dąbrowskiego?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Józef Wybicki"
+        },
+        {
+          "id": "b",
+          "text": "Adam Mickiewicz"
+        },
+        {
+          "id": "c",
+          "text": "Juliusz Słowacki"
+        },
+        {
+          "id": "d",
+          "text": "Henryk Sienkiewicz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Józef Wybicki napisał słowa hymnu w 1797 roku.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §3"
+    },
+    {
+      "id": "symbols-medieval-song",
+      "categoryId": "symbols",
+      "question": "Która pieśń pełniła w średniowieczu rolę hymnu?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Bogurodzica"
+        },
+        {
+          "id": "b",
+          "text": "Mazurek Dąbrowskiego"
+        },
+        {
+          "id": "c",
+          "text": "Rota"
+        },
+        {
+          "id": "d",
+          "text": "Czerwone maki na Monte Cassino"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W średniowieczu rolę hymnu pełniła pieśń Bogurodzica.",
+      "source": "kp-data/data/questions/01-polskie-symbole-narodowe.md §4"
+    }
+  ]
+}

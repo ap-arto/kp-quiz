@@ -1,0 +1,219 @@
+{
+  "category": {
+    "id": "geography",
+    "name": {
+      "uk": "Географія",
+      "pl": "Geografia"
+    }
+  },
+  "questions": [
+    {
+      "id": "geography-sea",
+      "categoryId": "geography",
+      "question": "Nad jakim morzem leży Polska?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Morzem Bałtyckim"
+        },
+        {
+          "id": "b",
+          "text": "Morzem Czarnym"
+        },
+        {
+          "id": "c",
+          "text": "Morzem Północnym"
+        },
+        {
+          "id": "d",
+          "text": "Morzem Adriatyckim"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polska leży nad Morzem Bałtyckim, na północy kraju.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §6"
+    },
+    {
+      "id": "geography-tricity",
+      "categoryId": "geography",
+      "question": "Które miasta tworzą Trójmiasto?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Gdańsk, Gdynia i Sopot"
+        },
+        {
+          "id": "b",
+          "text": "Gdańsk, Toruń i Poznań"
+        },
+        {
+          "id": "c",
+          "text": "Szczecin, Kołobrzeg i Sopot"
+        },
+        {
+          "id": "d",
+          "text": "Kraków, Katowice i Łódź"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Trójmiasto to Gdańsk, Gdynia i Sopot — miasta położone nad Bałtykiem.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §7"
+    },
+    {
+      "id": "geography-river",
+      "categoryId": "geography",
+      "question": "Jaka jest najdłuższa rzeka Polski?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wisła"
+        },
+        {
+          "id": "b",
+          "text": "Odra"
+        },
+        {
+          "id": "c",
+          "text": "Warta"
+        },
+        {
+          "id": "d",
+          "text": "Bug"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Wisła jest najdłuższą polską rzeką.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §9"
+    },
+    {
+      "id": "geography-lake",
+      "categoryId": "geography",
+      "question": "Jakie jest największe jezioro w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Śniardwy"
+        },
+        {
+          "id": "b",
+          "text": "Mamry"
+        },
+        {
+          "id": "c",
+          "text": "Hańcza"
+        },
+        {
+          "id": "d",
+          "text": "Morskie Oko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Śniardwy leżą na Pojezierzu Mazurskim i są największym jeziorem w Polsce.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §10"
+    },
+    {
+      "id": "geography-deepest-lake",
+      "categoryId": "geography",
+      "question": "Jakie jest najgłębsze jezioro w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hańcza"
+        },
+        {
+          "id": "b",
+          "text": "Śniardwy"
+        },
+        {
+          "id": "c",
+          "text": "Mamry"
+        },
+        {
+          "id": "d",
+          "text": "Morskie Oko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Hańcza znajduje się w północno-wschodniej Polsce.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §10"
+    },
+    {
+      "id": "geography-mountains",
+      "categoryId": "geography",
+      "question": "Które góry są najwyższe w Polsce?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Tatry"
+        },
+        {
+          "id": "b",
+          "text": "Góry Świętokrzyskie"
+        },
+        {
+          "id": "c",
+          "text": "Góry Stołowe"
+        },
+        {
+          "id": "d",
+          "text": "Bieszczady"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Tatry leżą na granicy ze Słowacją. Znajduje się w nich najwyższy szczyt Polski — Rysy.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §12"
+    },
+    {
+      "id": "geography-wawel",
+      "categoryId": "geography",
+      "question": "W jakim mieście znajduje się Wawel?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Krakowie"
+        },
+        {
+          "id": "b",
+          "text": "W Warszawie"
+        },
+        {
+          "id": "c",
+          "text": "W Gdańsku"
+        },
+        {
+          "id": "d",
+          "text": "W Poznaniu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Zamek Królewski na Wawelu w Krakowie był przez wieki siedzibą królów.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §14"
+    },
+    {
+      "id": "geography-salt-mine",
+      "categoryId": "geography",
+      "question": "Z czego słynie Wieliczka?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Z kopalni soli"
+        },
+        {
+          "id": "b",
+          "text": "Z zamku krzyżackiego"
+        },
+        {
+          "id": "c",
+          "text": "Z pierników"
+        },
+        {
+          "id": "d",
+          "text": "Z Jasnej Góry"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "W kopalni soli w Wieliczce znajduje się kaplica św. Kingi.",
+      "source": "kp-data/data/questions/02-pytania-z-geografii-polski.md §18"
+    }
+  ]
+}

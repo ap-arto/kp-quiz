@@ -1,0 +1,219 @@
+{
+  "category": {
+    "id": "traditions",
+    "name": {
+      "uk": "Традиції та свята",
+      "pl": "Tradycje i święta"
+    }
+  },
+  "questions": [
+    {
+      "id": "traditions-epiphany",
+      "categoryId": "traditions",
+      "question": "Kiedy obchodzimy Święto Trzech Króli?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "6 stycznia"
+        },
+        {
+          "id": "b",
+          "text": "1 stycznia"
+        },
+        {
+          "id": "c",
+          "text": "6 grudnia"
+        },
+        {
+          "id": "d",
+          "text": "25 grudnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Święto Trzech Króli, czyli Objawienie Pańskie, upamiętnia przybycie Mędrców do Betlejem.",
+      "source": "kp-data/data/questions/04-tradycje.md §2"
+    },
+    {
+      "id": "traditions-lent",
+      "categoryId": "traditions",
+      "question": "Który dzień rozpoczyna Wielki Post w Kościele katolickim?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Środa Popielcowa"
+        },
+        {
+          "id": "b",
+          "text": "Tłusty Czwartek"
+        },
+        {
+          "id": "c",
+          "text": "Niedziela Palmowa"
+        },
+        {
+          "id": "d",
+          "text": "Wielki Piątek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Środa Popielcowa, zwana Popielcem, jest pierwszym dniem Wielkiego Postu.",
+      "source": "kp-data/data/questions/04-tradycje.md §5"
+    },
+    {
+      "id": "traditions-dyngus",
+      "categoryId": "traditions",
+      "question": "Kiedy obchodzony jest śmigus-dyngus?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Poniedziałek Wielkanocny"
+        },
+        {
+          "id": "b",
+          "text": "W Wielką Sobotę"
+        },
+        {
+          "id": "c",
+          "text": "W Niedzielę Palmową"
+        },
+        {
+          "id": "d",
+          "text": "W Wigilię"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Poniedziałek Wielkanocny jest też nazywany Lanym Poniedziałkiem; wiąże się ze zwyczajem polewania wodą.",
+      "source": "kp-data/data/questions/04-tradycje.md §9"
+    },
+    {
+      "id": "traditions-harvest",
+      "categoryId": "traditions",
+      "question": "Co świętuje się podczas dożynek?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Zakończenie zbiorów"
+        },
+        {
+          "id": "b",
+          "text": "Początek Wielkiego Postu"
+        },
+        {
+          "id": "c",
+          "text": "Nadejście Nowego Roku"
+        },
+        {
+          "id": "d",
+          "text": "Początek zimy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Dożynki są świętem rolników obchodzonym po zebraniu plonów, głównie zbóż.",
+      "source": "kp-data/data/questions/04-tradycje.md §11"
+    },
+    {
+      "id": "traditions-christmas-eve",
+      "categoryId": "traditions",
+      "question": "Czym tradycyjnie dzielimy się podczas Wigilii?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Opłatkiem"
+        },
+        {
+          "id": "b",
+          "text": "Poświęconym jajkiem"
+        },
+        {
+          "id": "c",
+          "text": "Pączkiem"
+        },
+        {
+          "id": "d",
+          "text": "Pisanką"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Podczas Wigilii dzielimy się opłatkiem i składamy sobie życzenia.",
+      "source": "kp-data/data/questions/04-tradycje.md §17"
+    },
+    {
+      "id": "traditions-midnight-mass",
+      "categoryId": "traditions",
+      "question": "Czym jest pasterka?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mszą w noc Bożego Narodzenia"
+        },
+        {
+          "id": "b",
+          "text": "Śniadaniem wielkanocnym"
+        },
+        {
+          "id": "c",
+          "text": "Świętem plonów"
+        },
+        {
+          "id": "d",
+          "text": "Zwyczajem topienia kukły"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Pasterka to tradycyjna msza odprawiana o północy z 24 na 25 grudnia.",
+      "source": "kp-data/data/questions/04-tradycje.md §21"
+    },
+    {
+      "id": "traditions-polonaise",
+      "categoryId": "traditions",
+      "question": "Jakim tańcem tradycyjnie otwiera się studniówkę?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Polonezem"
+        },
+        {
+          "id": "b",
+          "text": "Oberkiem"
+        },
+        {
+          "id": "c",
+          "text": "Kujawiakiem"
+        },
+        {
+          "id": "d",
+          "text": "Krakowiakiem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Polonez jest dostojnym tańcem korowodowym, jednym z pięciu polskich tańców narodowych.",
+      "source": "kp-data/data/questions/04-tradycje.md §25"
+    },
+    {
+      "id": "traditions-basket",
+      "categoryId": "traditions",
+      "question": "Kiedy święci się pokarmy w koszyczku wielkanocnym?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "W Wielką Sobotę"
+        },
+        {
+          "id": "b",
+          "text": "W Wielki Piątek"
+        },
+        {
+          "id": "c",
+          "text": "W Środę Popielcową"
+        },
+        {
+          "id": "d",
+          "text": "W Poniedziałek Wielkanocny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "fact": "Święconkę przygotowuje się w Wielką Sobotę. Pokarmy je się na śniadaniu w Niedzielę Wielkanocną.",
+      "source": "kp-data/data/questions/04-tradycje.md §28"
+    }
+  ]
+}
